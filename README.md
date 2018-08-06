@@ -5,6 +5,7 @@
 ```
 git clone https://framagit.org/3600.lat/sitio.git
 cd sitio
+git submodule init
 git submodule update
 ```
 
