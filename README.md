@@ -4,21 +4,18 @@
 
 ```
 git clone https://framagit.org/3600.lat/sitio.git
-cd sitio/themes/minimo
-npm install
+cd sitio
+git submodule update
 ```
 
 ## Desarrollar
 
-En una terminal, para recompilar los CSS y JS a cada cambio del tema, lanzar
+Para personalizar JS y CSS, tocar:
 
-```
-cd themes/minimo
-npm install
-npm run-script watch
-```
+- [static/css/custom.css](static/css/custom.css)
+- [static/js/custom.js](static/js/custom.js)
 
-Y para ver los cambios, en otra terminal:
+Y para ver los cambios, en una terminal:
 
 ```
 hugo server
