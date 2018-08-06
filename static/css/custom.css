@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'norwesterregular';
+    src: url('../fonts/norwester-webfont.woff2') format('woff2'),
+         url('../fonts/norwester-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+#sidebar .logo {
+  max-width: 10em;
+}
+
+.site-title {
+  font-family: 'norwesterregular';
+}
