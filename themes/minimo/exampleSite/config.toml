@@ -1,5 +1,5 @@
-baseURL = "https://3600.lat/tests/"
-title = "3600.lat"
+baseURL = "http://www.example.com"
+title = "Minimo"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -22,11 +22,11 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "3600.lat"
-title404 = "Error - algo falló."
+description = "Minimalist theme for Hugo"
+title404 = "Nothing's here!"
 
 [params.assets]
-favicon = "favicon.png"
+favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
@@ -39,9 +39,9 @@ suffix = ""
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
-dateFormat = "02 Jan 2006"
-listDateFormat = "02 Jan 2006"
-archiveDateFormat = "02 Jan"
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+archiveDateFormat = "Jan 02"
 hideEntryNavigation = ["page"] # boolean / array of sections
 showReadingTime = true
 taxonomyCloudShuffle = true
@@ -53,8 +53,7 @@ enable = true
 
 [params.widgets]
 homepage = ["recent_posts"]
-sidebar = ["about","sidebar_menu"]
-#sidebar = ["about","search","sidebar_menu", "taxonomies"]
+sidebar = ["about","search","sidebar_menu","taxonomy_cloud"]
 footer = ["social_menu"]
 
 [params.opengraph.facebook]
@@ -70,15 +69,17 @@ page = "" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-email = "contacto@3600.lat"
-#facebook = "MunifTanjim"
-#github = "MunifTanjim"
-#gitlab = "Mun"
-#instagram = "MunifTanjim"
-#linkedin = "muniftanjim"
-#twitter = "MunifTanjim"
-#telegram = "MunifTanjim"
-#youtube = "UCT-U0rNerYxItGcuoPX-WYA"
+codepen = "MunifTanjim"
+email = "contact@example.com"
+facebook = "MunifTanjim"
+github = "MunifTanjim"
+gitlab = "MunifTanjim"
+instagram = "MunifTanjim"
+linkedin = "muniftanjim"
+twitter = "MunifTanjim"
+telegram = "MunifTanjim"
+google_scholar = "qc6CJjYAAAAJ"
+youtube = "UCT-U0rNerYxItGcuoPX-WYA"
 
 [params.comments]
 enable = false
