@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "3600.lat"
+description = "Resolviendo la cuadratura del globo"
 title404 = "Error - algo falló."
 
 [params.assets]
@@ -63,7 +63,7 @@ appID = ""
 pageID = ""
 
 [params.opengraph.twitter]
-page = "" # Twitter page username
+page = "3600LAT" # Twitter page username
 
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
@@ -76,7 +76,7 @@ email = "contacto@3600.lat"
 #gitlab = "Mun"
 #instagram = "MunifTanjim"
 #linkedin = "muniftanjim"
-#twitter = "MunifTanjim"
+twitter = "3600LAT"
 #telegram = "MunifTanjim"
 #youtube = "UCT-U0rNerYxItGcuoPX-WYA"
 
