@@ -71,7 +71,7 @@ titleSeparator = "•"
 
 [params.social]
 email = "contacto@3600.lat"
-#facebook = "MunifTanjim"
+facebook = "3600.lat"
 #github = "MunifTanjim"
 #gitlab = "Mun"
 #instagram = "MunifTanjim"
@@ -79,6 +79,10 @@ email = "contacto@3600.lat"
 twitter = "3600LAT"
 #telegram = "MunifTanjim"
 #youtube = "UCT-U0rNerYxItGcuoPX-WYA"
+
+[params.direccion]
+url = "https://www.openstreetmap.org/?mlat=-16.506767570972443&mlon=-68.13326954841614#map=18/-16.50677/-68.13327"
+direccion = ["Edificio Qhana, planta baja / L-2", "Nº522 calle Landaeta, Sopocachi", "La Paz", "Bolivia"]
 
 [params.comments]
 enable = false
