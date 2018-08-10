@@ -1,8 +1,6 @@
 <div class='contact'>
   <div class='icon'>
-    <svg class="feather">
-      <use xlink:href="{{ "assets/feather-sprite.svg#twitter" | relURL }}" />
-    </svg>
+    {{ partial "icono.html" (dict "name" "twitter") }}
   </div>
   <div class='content'>
     <a href="https://twitter.com/{{ .Get 0 }}">@{{ .Get 0 }}</a></div>
