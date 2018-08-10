@@ -25,9 +25,17 @@ svg.feather {
   fill: none;
 }
 
+section.contactos {
+  display: flex;
+  flex-flow: row wrap;
+}
+
 section.contacto {
+  display: block;
   padding: 1em 0 1em 1em;
   position: relative;
+  width: 50%;
+  min-width: 15em;
 }
 
 section.contacto div.contenedor {
