@@ -1,9 +1,10 @@
 ---
-title: Inicio
+title: Servicios
+comments: false
 menu:
   - main
   - sidebar
-weight: -270
+weight: -90
 ---
-> Minimalism is not a lack of something. It’s simply the perfect amount of something.
-> — Nicholas Burroughs
+
+## ¿Qué servicios?
