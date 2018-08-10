@@ -8,7 +8,12 @@ weight: -70
 ---
 
 {{<correo cuenta="contacto@3600.lat" >}}
-{{<direccion "Edificio Qhana, planta baja / L-2" "Nº522 calle Landaeta, Sopocachi" "La Paz" "Bolivia">}}
+{{<direccion
+  "https://www.openstreetmap.org/?mlat=-16.506767570972443&mlon=-68.13326954841614#map=18/-16.50677/-68.13327"
+  "Edificio Qhana, planta baja / L-2"
+  "Nº522 calle Landaeta, Sopocachi"
+  "La Paz"
+  "Bolivia">}}
 {{<twitter cuenta="3600LAT" >}}
 {{<facebook cuenta="3600.lat" >}}
 

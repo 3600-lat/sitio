@@ -3,8 +3,11 @@
     {{ partial "icono.html" (dict "name" "map-pin") }}
     <h3>Dirección</h3>
     <span>{{range $i,$e := .Params }}
-      {{ if gt $i 0}}<br/>{{end}}
-      {{ $e }}
+      {{ if gt $i 0 }}
+        {{ if gt $i 1}}<br/>{{end}}
+        {{ $e }}
+      {{ end }}
       {{end}}</span>
+    <p class="enlace-mapa"><a href="{{ index .Params 0 }}">Ver el mapa</a></p>
   </div>
 </section>

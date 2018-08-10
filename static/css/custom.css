@@ -45,3 +45,7 @@ section.contacto div.contenedor svg.icono {
 section.contacto div.contenedor h3 {
   margin-top: 0;
 }
+
+section.contacto div.contenedor p.enlace-mapa {
+  margin-top: 1em;
+}
