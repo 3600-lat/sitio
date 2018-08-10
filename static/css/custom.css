@@ -16,11 +16,32 @@
 }
 
 svg.feather {
-  width: 24px;
-  height: 24px;
+  width: 1.5em;
+  height: 1.5em;
   stroke: currentColor;
   stroke-width: 2;
   stroke-linecap: round;
   stroke-linejoin: round;
   fill: none;
+}
+
+section.contacto {
+  padding: 1em 0 1em 1em;
+  position: relative;
+}
+
+section.contacto div.contenedor {
+  margin: 0 0 2em 0;
+  padding-left: 3.25em;
+  position: relative;
+}
+
+section.contacto div.contenedor svg.icono {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+section.contacto div.contenedor h3 {
+  margin-top: 0;
 }

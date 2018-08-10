@@ -7,10 +7,10 @@ menu:
 weight: -70
 ---
 
-- Correo electrónico: contacto@3600.lat
-- Dirección: Edificio Qhana, planta baja / L-2, Nº522 calle Landaeta, Sopocachi, La Paz, Bolivia
-
-{{% cuenta_twitter 3600LAT %}}
+{{<correo cuenta="contacto@3600.lat" >}}
+{{<direccion "Edificio Qhana, planta baja / L-2" "Nº522 calle Landaeta, Sopocachi" "La Paz" "Bolivia">}}
+{{<twitter cuenta="3600LAT" >}}
+{{<facebook cuenta="3600.lat" >}}
 
 ### Fernando Molina
 
