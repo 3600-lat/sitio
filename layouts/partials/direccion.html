@@ -1,0 +1,11 @@
+<section class="contacto dirección">
+  <div class="contenedor">
+    {{ partial "icono.html" (dict "name" "map-pin") }}
+    <h3>Dirección</h3>
+    <span>{{range $i,$e := .direccion }}
+        {{ if gt $i 0}}<br/>{{end}}
+        {{ $e }}
+      {{end}}</span>
+    <p class="enlace-mapa"><a href="{{ .url }}">Ver el mapa</a></p>
+  </div>
+</section>
