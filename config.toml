@@ -45,7 +45,7 @@ archiveDateFormat = "02 Jan"
 hideEntryNavigation = ["page"] # boolean / array of sections
 showReadingTime = true
 taxonomyCloudShuffle = true
-accentColor = "#ffcd00"
+accentColor = "#0095FF"
 hideMainMenu = false
 
 [params.sidebar]
