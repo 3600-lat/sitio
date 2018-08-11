@@ -1,6 +1,6 @@
 <section class="contacto dirección">
   <div class="contenedor">
-    {{ partial "icono.html" (dict "name" "map-pin") }}
+    <i class="fa fa-map-marker"></i>
     <h3>Dirección</h3>
     <span>{{range $i,$e := .direccion }}
         {{ if gt $i 0}}<br/>{{end}}

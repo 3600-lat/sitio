@@ -50,10 +50,48 @@ section.contacto div.contenedor svg.icono {
   top: 0;
 }
 
+section.contacto div.contenedor i.fa {
+  font-size: 1.5em;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
 section.contacto div.contenedor h3 {
   margin-top: 0;
 }
 
 section.contacto div.contenedor p.enlace-mapa {
+  margin-top: 1em;
+}
+
+section.personas {}
+section.persona {
+  display: block;
+  padding: 1em 0 2em 1em;
+}
+
+section.persona div.contenedor {
+  margin: 0 0 2em 0;
+  padding-left: 10em;
+  position: relative;
+}
+
+section.persona div.contenedor div.foto i.fa {
+  font-size: 10em;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+section.persona div.contenedor span.celular i.fa {
+  font-size: 1em;
+}
+
+section.persona div.contenedor h3 {
+  margin-top: 0;
+}
+
+section.persona div.contenedor p.enlace {
   margin-top: 1em;
 }
