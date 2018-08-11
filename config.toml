@@ -88,7 +88,7 @@ direccion = ["Edificio Qhana, planta baja / L-2", "Nº522 calle Landaeta, Sopoca
 [params.personas.rmolina]
 nombre = "Fernando Molina"
 foto = "images/rmolina.jpg"
-presentacion = "Profesional geógrafo, [...]"
+presentacion = "Profesional geógrafo, modeliza e interpreta el territorio mediante mapas; crea, analiza y visualiza datos, genera simbologías"
 celular = "+591-72000576"
 correo = "rmolina@3600.lat"
 mensajerias = ["signalapp", "whatsapp"]
