@@ -87,8 +87,10 @@ direccion = ["Edificio Qhana, planta baja / L-2", "Nº522 calle Landaeta, Sopoca
 
 [params.personas.rmolina]
 nombre = "Fernando Molina"
+foto = "images/rmolina.jpg"
 presentacion = "Profesional geógrafo, [...]"
 celular = "+591-72000576"
+correo = "rmolina@3600.lat"
 mensajerias = ["signalapp", "whatsapp"]
 paginapropia = "https://rincondelosgeografos.blogspot.com/"
 
@@ -96,13 +98,14 @@ paginapropia = "https://rincondelosgeografos.blogspot.com/"
 twitter = "https://twitter.com/rafemoro"
 github = "https://github.com/rafemoro"
 linkedin = "https://www.linkedin.com/in/rafemoro/"
-envelope = "mailto:rmolina@3600.lat"
 graduation-cap = "https://www.researchgate.net/profile/Raul_Molina-Rodriguez"
 
 [params.personas.slesage]
 nombre = "Sylvain Lesage"
+foto = "images/slesage.jpg"
 presentacion = "Desarrolla software, diseña mapas, analiza datos y aplica algoritmos."
 celular = "+591-71542024"
+correo = "slesage@3600.lat"
 mensajerias = ["signalapp", "telegram"]
 paginapropia = "https://rednegra.net/sylvainlesage"
 
@@ -114,7 +117,6 @@ linkedin = "https://www.linkedin.com/in/sylvain-lesage-42793015a/"
 keybase = "https://keybase.io/severo"
 github = "https://github.com/severo"
 gitlab = "https://framagit.org/severo"
-envelope = "mailto:slesage@3600.lat"
 graduation-cap = "https://www.researchgate.net/scientific-contributions/57113422_Sylvain_Lesage"
 
 [params.comments]

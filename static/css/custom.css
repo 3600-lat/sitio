@@ -72,24 +72,50 @@ section.persona {
 }
 
 section.persona div.contenedor {
+  display: flex;
+  flex-flow: row wrap;
   margin: 0 0 2em 0;
-  padding-left: 10em;
-  position: relative;
 }
 
-section.persona div.contenedor div.foto i.fa {
-  font-size: 10em;
-  left: 0;
-  position: absolute;
-  top: 0;
+section.persona div.contenedor div.left {
+  flex: none;
+  margin-right: 2em;
+  width: 160px;
 }
 
-section.persona div.contenedor span.celular i.fa {
+section.persona div.contenedor div.left img {
+  border-radius: 100%;
+  display: block;
+  height: 120px;
+  margin: 5px auto;
+  width: 120px;
+  border-color: #CBB370;
+  border-style: solid;
+  border-width: 5px;
+}
+
+section.persona div.contenedor div.right {
+  flex: 1 1 16em;
+}
+
+section.persona div.contenedor p.social {
+  text-align: center;
+}
+
+section.persona div.contenedor p.social a {
+  border-bottom: none;
+}
+
+section.persona div.contenedor i.fa {
   font-size: 1em;
 }
 
-section.persona div.contenedor h3 {
-  margin-top: 0;
+section.persona div.contenedor i.fa.alt:before {
+  display: inline-block;
+  height: 1.5em;
+  line-height: 1.5em;
+  text-align: center;
+  width: 1.5em;
 }
 
 section.persona div.contenedor p.enlace {
