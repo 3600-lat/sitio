@@ -1,0 +1,28 @@
+<section class="persona">
+  <div class="contenedor">
+    <div class="foto">
+      {{ partial "foto.html" .nombre }}
+    </div>
+    <h3>{{.nombre}}</h3>
+ 
+    <p class="presentacion">{{.presentacion}}</p>
+    <span class="celular">
+      Contacto por teléfono: <a href="tel:{{.celular}}">
+          {{ .celular }}
+        </a> (también por 
+      {{range .mensajerias}}
+      <i class="fa fa-{{.}}"></i>
+      {{ end }}
+      )
+    </span>
+    
+    <p class="social">
+      Presente en: {{ partial "iconos-sociales.html" .social}}
+    </p>
+  
+    <p class="enlace">
+      <a href="{{.paginapropia}}">Más información en su página personal</a>
+    </p>
+  
+  </div>
+</section>

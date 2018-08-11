@@ -1,0 +1,7 @@
+<section class="personas">
+
+  {{ range $.Site.Params.personas }}
+    {{ partial "persona.html" . }}
+  {{ end }}
+
+</section>
