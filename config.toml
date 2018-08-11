@@ -87,7 +87,7 @@ direccion = ["Edificio Qhana, planta baja / L-2", "Nº522 calle Landaeta, Sopoca
 
 [params.personas.rmolina]
 nombre = "Fernando Molina"
-presentacion = "Profesional geógrafo, 35 años de experiencia, astronomo en la estación Mir."
+presentacion = "Profesional geógrafo, [...]"
 celular = "+591-72000576"
 mensajerias = ["signalapp", "whatsapp"]
 paginapropia = "https://rincondelosgeografos.blogspot.com/"
@@ -101,7 +101,7 @@ graduation-cap = "https://www.researchgate.net/profile/Raul_Molina-Rodriguez"
 
 [params.personas.slesage]
 nombre = "Sylvain Lesage"
-presentacion = "Desarrollador de software científico y diseñador de mapas. Domaba leones en Rusia como pasa tiempo."
+presentacion = "Desarrolla software, diseña mapas, analiza datos y aplica algoritmos."
 celular = "+591-71542024"
 mensajerias = ["signalapp", "telegram"]
 paginapropia = "https://rednegra.net/sylvainlesage"
