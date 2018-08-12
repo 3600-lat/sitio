@@ -1,4 +1,3 @@
----
 date: 2018-08-11T14:00:00-04:00
 lastmod: 2018-08-11T14:00:00-04:00
 title: Procesando imágenes satelitales con Software libre
