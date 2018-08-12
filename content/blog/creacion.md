@@ -13,4 +13,4 @@ cover:
 
 Este mes de agosto de 2018, creamos la empresa {{<marca>}}.
 
-{{<youtube B4lEhdD7xYo}}>
+{{<youtube B4lEhdD7xYo>}}
