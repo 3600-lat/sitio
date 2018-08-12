@@ -9,19 +9,12 @@ slug: blog
 
 ## Procesando imágenes satelitales con Software libre
 
-Realizamos el diseño de aplicaciones web, mapas interactivos y estáticos, reportes y gráficos.
+## Introducción
 
-Referencias personales:
+Actualmente, la inmensa mayoría de los datos producidos por la actividad científica es analizada y procesada utilizando diversas herramientas de software, que abarcan desde la más sencilla planillade cálculos, hasta el más complejo de los sistemas desplegados en clusters. En las tareas más triviales,ciertos aspectos de las herramientas informáticas pueden pasar desapercibidos a los usuarios. 
 
-- [WELL-FORMED.EIGENFACTOR](http://well-formed.eigenfactor.org/): en colaboración con [Philippe Rivière](https://illisible.net/philippe-riviere?lang=en), actualizamos cuatro gráficos interactivos, de Adobe Flash a JavaScript / D3.js / SVG.
-- [GeoElectoral](http://geoelectoral.gob.bo): participamos a la creación y el desarrollo de GeoElectoral, atlas histórico electoral de Bolivia.
-- [ObservableHQ](https://beta.observablehq.com/@severo): experimentaciones alrededor de los mapas y datos.
+Sin embargo, durante la ejecución de algoritmos complejos, resulta imprescindible que el investigador sepa exactamente qué operaciones se están realizando sobre sus datos. Tal situación de transparencia no se da cuando se utiliza un software que no permite acceder al código de procesamiento de manera explícita. Ni siquiera en el mejor de los casos, esto es, cuando se brinda documentación relativamente detallada, no es posible estar plenamente seguro de qué transformaciones se están operando sobre los datos. Por otra parte, es común que un investigador, debido a las particularidades de sus datos o de1sus objetivos de investigación, necesite desarrollar algoritmos de análisis y/o de procesamiento propios. 
 
-## Analisis de datos
+Esta posibilidad de desarrollar algoritmos propios no siempre está incorporada en el software privativo. De allí que en la mayor parte de los casos, e independientemente de los elevados y a veces inalcanzables costos de las licencias, la elección de software libre y abierto resulte la elección más adecuada, puesto que permite al usuario ver y/o modificar las transformaciones que se operan sobre los datos en cada una de las etapas de procesamiento.
 
-Realizamos análisis de datos, análisis estadístico, optimización de procesos basado en métricas, modelización de procesos e informática científica.
-
-Referencias personales:
-
-- Modelización: en [Acsystème](http://www.acsysteme.com/en/) realizamos informática científica, simulación, modelización y optimización de sistemas para las industrías de producción automotriz, eléctrica o alimenticia.
-- Machine Learning: doctorado en el [INRIA](https://inria.fr) de Francia, sobre aprendizaje automático de patrones para la separación automática de señales audio.
+En ese sentido, el dia de hoy  compartiremos nuestra experiencia en el uso de [Quantum GIS (QGIS)](https://www.qgis.org/) es un sistema de información geográfica (SIG, o GIS por sus siglas en inglés)que permite trabajar con los formatos más clásicos de los entornos GIS: vector, raster y base de datos.Además, es posible agregarle complementos que permiten intercambiar información y funcionalidades con otras herramientas tales como GDAL/OGR. QGIS puede operarse a través de una interfaz gráficamuy intuitiva, pero, además, permite generar y utilizar scripts mediante una consola Python. Existen distintas versiones que se adaptan a una variedad de sistemas operativos. QGIS dispone de muy buena documentación oficial en distintos idiomas incluyendo el español. Además, cuenta distintos foros orientados a usuarios y a desarrolladores.
