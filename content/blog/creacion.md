@@ -1,17 +1,9 @@
 ---
 date: 2018-08-11T14:00:00-04:00
 lastmod: 2018-08-11T14:00:00-04:00
-title: Creación de 3600.lat
+title: Procesando imágenes satelitales con Software libre
 categories:
   - 3600.lat
-slug: creacion-de-3600-lat
-cover:
-  image: /test/images/cubo.jpg
-  caption: Rubik's Cube andino
-  style: normal
----
-
-## Procesando imágenes satelitales con Software libre
 
 ## Introducción
 
