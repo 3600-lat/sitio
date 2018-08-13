@@ -79,7 +79,8 @@ facebook = "3600.lat"
 linkedin_company = "3600-lat"
 twitter = "3600LAT"
 #telegram = "MunifTanjim"
-#youtube = "UCT-U0rNerYxItGcuoPX-WYA"
+youtube = "UCxC6dQTYyV2ewsthbsql26A"
+youtube_name = "3600.LATBOL"
 
 [params.direccion]
 url = "https://www.openstreetmap.org/?mlat=-16.506767570972443&mlon=-68.13326954841614#map=18/-16.50677/-68.13327"
