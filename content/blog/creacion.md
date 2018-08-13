@@ -1,9 +1,4 @@
-date: 2018-08-11T14:00:00-04:00
-lastmod: 2018-08-11T14:00:00-04:00
-title: Procesando imágenes satelitales con Software libre
-categories:
-  - 3600.lat
-
+###Procesando imágenes satelitales con Software libre
 ## Introducción
 
 Actualmente, la inmensa mayoría de los datos producidos por la actividad científica es analizada y procesada utilizando diversas herramientas de software, que abarcan desde la más sencilla planillade cálculos, hasta el más complejo de los sistemas desplegados en clusters. En las tareas más triviales,ciertos aspectos de las herramientas informáticas pueden pasar desapercibidos a los usuarios. 
