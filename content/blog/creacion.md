@@ -1,7 +1,7 @@
 ---
 date: 2018-08-13T14:00:00-04:00
 lastmod: 2018-08-13T19:00:00-04:00
-title: 🗣️ ¡Estamos abiertos!
+title: 📣 ¡Estamos abiertos!
 categories:
   - 3600.lat
 slug: creacion-de-3600-lat
