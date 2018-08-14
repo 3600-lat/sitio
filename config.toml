@@ -87,6 +87,7 @@ url = "https://www.openstreetmap.org/?mlat=-16.506767570972443&mlon=-68.13326954
 direccion = ["Edificio Qhana, planta baja / L-2", "Nº522 calle Landaeta, Sopocachi", "La Paz", "Bolivia"]
 
 [params.personas.rmolina]
+id = "Fernando"
 nombre = "Fernando Molina"
 foto = "images/rmolina.jpg"
 presentacion = "Profesional geógrafo, modeliza e interpreta el territorio mediante mapas; crea, analiza y visualiza datos, genera simbologías"
@@ -102,6 +103,7 @@ linkedin = "https://www.linkedin.com/in/rafemoro/"
 graduation-cap = "https://www.researchgate.net/profile/Raul_Molina-Rodriguez"
 
 [params.personas.slesage]
+id = "Sylvain"
 nombre = "Sylvain Lesage"
 foto = "images/slesage.jpg"
 presentacion = "Desarrolla software, diseña mapas, analiza datos y aplica algoritmos."

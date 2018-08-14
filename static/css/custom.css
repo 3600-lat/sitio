@@ -16,17 +16,8 @@
 }
 
 .marca, h2 {
+  font-style: normal;
   font-family: 'norwesterregular';
-}
-
-svg.feather {
-  width: 1.5em;
-  height: 1.5em;
-  stroke: currentColor;
-  stroke-width: 2;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  fill: none;
 }
 
 section.contactos {
@@ -124,4 +115,10 @@ section.persona div.contenedor i.fa.alt:before {
 
 section.persona div.contenedor p.enlace {
   margin-top: 1em;
+}
+
+div.enfasis {
+  font-size: 1.25em;
+  margin: 2em;
+  text-align: center;
 }
