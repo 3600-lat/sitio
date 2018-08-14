@@ -10,7 +10,7 @@ weight: -90
 ubicada en la ciudad de La Paz, Bolivia, dedicada a la provisión de servicios de
 alto nivel para extraer el valor de los datos.
 
-## Mapas y graficos interactivos
+## Mapas y gráficos interactivos
 
 Realizamos el diseño de aplicaciones web, reportes, gráficos, mapas interactivos
 y estáticos.
@@ -27,7 +27,7 @@ Referencias personales:
 - [ObservableHQ](https://beta.observablehq.com/@severo): experimentaciones
   alrededor de los mapas y datos.
 
-## Analisis de datos
+## Análisis de datos
 
 Realizamos análisis de datos, estadísticas, optimización de procesos basado en
 métricas, modelización de procesos e informática científica.
@@ -35,13 +35,13 @@ métricas, modelización de procesos e informática científica.
 Referencias personales:
 
 - Modelización: en [Acsystème](http://www.acsysteme.com/en/) realizamos
-  simulación, modelización y optimización de sistemas para las industrías de
+  simulación, modelización y optimización de sistemas para las industrias de
   producción automotriz, eléctrica o alimenticia.
 - Machine Learning: doctorado en el [INRIA](https://inria.fr) de Francia, sobre
   aprendizaje automático de patrones para la separación automática de señales
   audio.
 
-## Sistemas de informacion geográfica
+## Sistemas de información geográfica
 
 Diseñamos, instalamos y administramos sistemas de información geográfica, bases
 de datos espaciales, e infraestructuras de datos espaciales.

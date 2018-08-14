@@ -35,7 +35,7 @@ el análisis de datos y de métricas, para entender la información, procesarla
 desvelando sus aristas más características, y presentarla en formatos originales
 y estéticos.
 
-{{%center%}} [Contactenos]({{<ref "/page/contacto.md">}}) {{%/center%}}
+{{%center%}} [Contáctenos]({{<ref "/page/contacto.md">}}) {{%/center%}}
 
 Nos especializamos particularmente en:
 
@@ -51,7 +51,7 @@ Nos especializamos particularmente en:
 [Sylvain Lesage]({{<ref "/page/contacto.md#Sylvain">}}) {{%/center%}}
 
 Trabajamos juntos desde el año 2011, con la creación del proyecto
-[GeoBolivia](https://geo.gob.bo) al cuál contribuímos desde los enfoques
+[GeoBolivia](https://geo.gob.bo) al cuál contribuimos desde los enfoques
 geográfico y tecnológico respectivamente. Posteriormente colaboramos en varias
 instituciones del Estado boliviano líderes en temas de tecnologías libres y
 datos abiertos: la [ADSIB](https://adsib.gob.bo) y la
@@ -59,7 +59,7 @@ datos abiertos: la [ADSIB](https://adsib.gob.bo) y la
 
 [R. Fernando Molina]({{<ref "/page/contacto.md#Fernando">}}) es boliviano, tiene
 una formación de geógrafo, obtuvo un master en ordenación y desarrollo
-territorial en la Universidad de Andalucia, España, y cuenta con una amplia
+territorial en la Universidad de Andalucía, España, y cuenta con una amplia
 experiencia en la gestión de infraestructuras de datos espaciales, análisis de
 datos y elaboración de mapas.
 
@@ -76,11 +76,11 @@ sede, y sus 3.600m de altura.
 
 {{< youtube G_v7TyHUSXY >}}
 
-Se refiere también a América Latina, nuestra patría grande, con su historia, sus
+Se refiere también a América Latina, nuestra patria grande, con su historia, sus
 pueblos, y su geografía.
 
-Soñamos con aportar nuestra expertiz a la resolución de problemas en cualquier
-<span class="marca">lat</span>itud del continente latinoamericano.
+Soñamos con aportar nuestra conocimiento a la resolución de problemas en
+cualquier <span class="marca">lat</span>itud del continente latinoamericano.
 
 {{%center%}} [Esperamos su contacto]({{<ref "/page/contacto.md">}})
 {{%/center%}}

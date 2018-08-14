@@ -17,7 +17,7 @@ cover:
 
 Actualmente, la inmensa mayoría de los datos producidos por la actividad
 científica es analizada y procesada utilizando diversas herramientas de
-software, que abarcan desde la más sencilla planillade cálculos, hasta el más
+software, que abarcan desde la más sencilla planilla de cálculos, hasta el más
 complejo de los sistemas desplegados en clusters. En las tareas más
 triviales,ciertos aspectos de las herramientas informáticas pueden pasar
 desapercibidos a los usuarios.
@@ -29,7 +29,7 @@ utiliza un software que no permite acceder al código de procesamiento de manera
 explícita. Ni siquiera en el mejor de los casos, esto es, cuando se brinda
 documentación relativamente detallada, no es posible estar plenamente seguro de
 qué transformaciones se están operando sobre los datos. Por otra parte, es común
-que un investigador, debido a las particularidades de sus datos o de1sus
+que un investigador, debido a las particularidades de sus datos o de sus
 objetivos de investigación, necesite desarrollar algoritmos de análisis y/o de
 procesamiento propios.
 
@@ -40,13 +40,13 @@ licencias, la elección de software libre y abierto resulte la elección más
 adecuada, puesto que permite al usuario ver y/o modificar las transformaciones
 que se operan sobre los datos en cada una de las etapas de procesamiento.
 
-En ese sentido, el dia de hoy compartiremos nuestra experiencia en el uso de
+En ese sentido, el día de hoy compartiremos nuestra experiencia en el uso de
 [Quantum GIS (QGIS)](https://www.qgis.org/) es un sistema de información
 geográfica (SIG, o GIS por sus siglas en inglés)que permite trabajar con los
 formatos más clásicos de los entornos GIS: vector, raster y base de
 datos.Además, es posible agregarle complementos que permiten intercambiar
 información y funcionalidades con otras herramientas tales como GDAL/OGR. QGIS
-puede operarse a través de una interfaz gráficamuy intuitiva, pero, además,
+puede operarse a través de una interfaz gráfica muy intuitiva, pero, además,
 permite generar y utilizar scripts mediante una consola Python. Existen
 distintas versiones que se adaptan a una variedad de sistemas operativos. QGIS
 dispone de muy buena documentación oficial en distintos idiomas incluyendo el
@@ -65,4 +65,4 @@ análisis espectral.
 En este tutorial vamos a realizar una clasificación espectral con 10 categorías
 sobre una imagen recortada de Landsat 8 en la parte sur del Altiplano del
 Departamento de La Paz. Las bandas utilizadas en este tutorial son las bandas
-visibles y el infrarojo.
+visibles y el infrarrojo.
