@@ -19,15 +19,15 @@ Tenemos el placer de anunciarles que
 <p>.~.~.</p>
 </div>
 
-Sus dos papas se portan bien, son felices y les agradecen a todas y todos por 
-las marcas de apoyo durante la espera de este feliz evento.
+Sus dos papas se portaron bien, son felices y les agradecen a todas y todos por 
+sus muestras de apoyo durante la espera de este feliz evento.
 
 ## ¿En qué les ayudamos?
 
 Ahora, manos a la obra.
 
 Estamos ansiosos de conocerles, que nos cuenten en qué trabajan, qué fueron sus
-éxitos y qué retos están enfrentando. Nos gusta abordar las pendientes arduas, 
+éxitos y qué retos están enfrentando. Nos gusta abordar las arduas pendientes, 
 encontrar los mejores caminos, y llevarles hasta la cumbre.
 
 Proponemos soluciones a medida, innovadoras y de alto nivel, siempre basadas en 
@@ -53,7 +53,7 @@ Nos especializamos particularmente en:
 ## ¿Quienes somos?
 
 {{%center%}}
-[Fernando Molina]({{<ref "/page/contacto.md#Fernando">}})
+[R.Fernando Molina]({{<ref "/page/contacto.md#Fernando">}})
 y
 [Sylvain Lesage]({{<ref "/page/contacto.md#Sylvain">}})
 {{%/center%}}
@@ -64,7 +64,7 @@ geográfico y tecnológico respectivamente. Posteriormente colaboramos en varias
 instituciones del Estado boliviano lideres en temas de tecnologías libres y datos
 abiertos: la [ADSIB](https://adsib.gob.bo) y la [AGETIC](https://agetic.gob.bo).
 
-[Fernando Molina]({{<ref "/page/contacto.md#Fernando">}}) es boliviano, tiene una
+[R.Fernando Molina]({{<ref "/page/contacto.md#Fernando">}}) es boliviano, tiene una
 formación de geógrafo, y una amplia experiencia en la gestión de infraestructuras
 de datos espaciales, análisis de datos y elaboración de mapas.
 
