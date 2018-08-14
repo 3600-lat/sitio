@@ -19,25 +19,23 @@ Tenemos el placer de anunciarles que
 <p>.~.~.</p>
 </div>
 
-Sus dos papas se portaron bien, son felices y les agradecen a todas y todos por 
-sus muestras de apoyo durante la espera de este feliz evento.
+Sus dos papas son felices y les agradecen a todas y todos por sus muestras de
+apoyo durante la espera de este feliz evento.
 
 ## ¿En qué les ayudamos?
 
 Ahora, manos a la obra.
 
 Estamos ansiosos de conocerles, que nos cuenten en qué trabajan, qué fueron sus
-éxitos y qué retos están enfrentando. Nos gusta abordar las arduas pendientes, 
+éxitos y qué retos están enfrentando. Nos gusta abordar las arduas pendientes,
 encontrar los mejores caminos, y llevarles hasta la cumbre.
 
-Proponemos soluciones a medida, innovadoras y de alto nivel, siempre basadas en 
+Proponemos soluciones a medida, innovadoras y de alto nivel, siempre basadas en
 el análisis de datos y de métricas, para entender la información, procesarla
 desvelando sus aristas más características, y presentarla en formatos originales
 y estéticos.
 
-{{%center%}}
-[Contactenos]({{<ref "/page/contacto.md">}})
-{{%/center%}}
+{{%center%}} [Contactenos]({{<ref "/page/contacto.md">}}) {{%/center%}}
 
 Nos especializamos particularmente en:
 
@@ -45,50 +43,44 @@ Nos especializamos particularmente en:
 - el análisis y procesamiento algorítmico de datos
 - la gestión de datos espaciales
 
-{{%center%}}
-[Nuestros servicios]({{<ref "/">}})
-{{%/center%}}
-
+{{%center%}} [Ver nuestros servicios]({{<ref "/">}}) {{%/center%}}
 
 ## ¿Quienes somos?
 
-{{%center%}}
-[R.Fernando Molina]({{<ref "/page/contacto.md#Fernando">}})
-y
-[Sylvain Lesage]({{<ref "/page/contacto.md#Sylvain">}})
-{{%/center%}}
+{{%center%}} [R. Fernando Molina]({{<ref "/page/contacto.md#Fernando">}}) y
+[Sylvain Lesage]({{<ref "/page/contacto.md#Sylvain">}}) {{%/center%}}
 
-Trabajamos juntos desde el año 2011, y la creación del proyecto 
+Trabajamos juntos desde el año 2011, con la creación del proyecto
 [GeoBolivia](https://geo.gob.bo) al cuál contribuímos desde los enfoques
 geográfico y tecnológico respectivamente. Posteriormente colaboramos en varias
-instituciones del Estado boliviano lideres en temas de tecnologías libres y datos
-abiertos: la [ADSIB](https://adsib.gob.bo) y la [AGETIC](https://agetic.gob.bo).
+instituciones del Estado boliviano líderes en temas de tecnologías libres y
+datos abiertos: la [ADSIB](https://adsib.gob.bo) y la
+[AGETIC](https://agetic.gob.bo).
 
-[R.Fernando Molina]({{<ref "/page/contacto.md#Fernando">}}) es boliviano, tiene una
-formación de geógrafo, y una amplia experiencia en la gestión de infraestructuras
-de datos espaciales, análisis de datos y elaboración de mapas.
+[R. Fernando Molina]({{<ref "/page/contacto.md#Fernando">}}) es boliviano, tiene
+una formación de geógrafo, obtuvo un master en ordenación y desarrollo
+territorial en la Universidad de Andalucia, España, y cuenta con una amplia
+experiencia en la gestión de infraestructuras de datos espaciales, análisis de
+datos y elaboración de mapas.
 
-[Sylvain Lesage]({{<ref "/page/contacto.md#Sylvain">}}) es franco-boliviano, 
-tiene una formación en matemáticas aplicadas, y una experiencia en 
-informática científica, desarrollo web, visualización de datos, y gestión
-pública.
+[Sylvain Lesage]({{<ref "/page/contacto.md#Sylvain">}}) es franco-boliviano,
+tiene una formación en matemáticas aplicadas, obtuvo un doctorado en
+telecomunicaciones y procesamiento de señales de la Universidad de Rennes,
+Francia, y cuenta con experiencias en informática científica, desarrollo web,
+visualización de datos, y gestión pública.
 
 ## ¿Por qué 3600.lat?
 
-Nuestro nombre {{<marca>}} hace referencia a nuestra ciudad de La Paz - Bolivia,
-y sus 3.600m de altura.
+El nombre {{<marca>}} hace referencia a la ciudad de La Paz - Bolivia, nuestra
+sede, y sus 3.600m de altura.
 
 {{< youtube G_v7TyHUSXY >}}
 
-Se refiere también a América Latina, nuestra patría grande, con su historia, 
-sus pueblos, y su geografía.
+Se refiere también a América Latina, nuestra patría grande, con su historia, sus
+pueblos, y su geografía.
 
-Soñamos con aportar nuestra expertiz a la resolución
-de problemas en cualquier <span class="marca">lat</span>itud del continente 
-latinoamericano.
+Soñamos con aportar nuestra expertiz a la resolución de problemas en cualquier
+<span class="marca">lat</span>itud del continente latinoamericano.
 
-{{%center%}}
-[Esperamos su contacto]({{<ref "/page/contacto.md">}})
+{{%center%}} [Esperamos su contacto]({{<ref "/page/contacto.md">}})
 {{%/center%}}
-
-

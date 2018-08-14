@@ -5,5 +5,3 @@ menu:
 weight: -60
 slug: blog
 ---
-
-

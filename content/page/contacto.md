@@ -6,8 +6,7 @@ menu:
 weight: -70
 ---
 
-{{<contactos>}}
-{{<personas>}}
+{{<contactos>}} {{<personas>}}
 
 ## Información legal
 
