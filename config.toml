@@ -100,7 +100,7 @@ paginapropia = "https://rincondelosgeografos.blogspot.com/"
 twitter = "https://twitter.com/rafemoro"
 github = "https://github.com/rafemoro"
 linkedin = "https://www.linkedin.com/in/rafemoro/"
-graduation-cap = "https://www.researchgate.net/profile/Raul_Molina-Rodriguez"
+#graduation-cap = "https://www.researchgate.net/profile/Raul_Molina-Rodriguez"
 
 [params.personas.slesage]
 id = "Sylvain"
@@ -114,13 +114,13 @@ paginapropia = "https://rednegra.net/sylvainlesage"
 
 [params.personas.slesage.social]
 twitter = "https://twitter.com/mapsinbolivia"
-mastodon = "https://mamot.fr/@severo_bo"
-quote-right = "https://seenthis.net/people/severo"
+#mastodon = "https://mamot.fr/@severo_bo"
+#quote-right = "https://seenthis.net/people/severo"
 linkedin = "https://www.linkedin.com/in/sylvain-lesage-42793015a/"
-keybase = "https://keybase.io/severo"
+#keybase = "https://keybase.io/severo"
 github = "https://github.com/severo"
 gitlab = "https://framagit.org/severo"
-graduation-cap = "https://www.researchgate.net/scientific-contributions/57113422_Sylvain_Lesage"
+#graduation-cap = "https://www.researchgate.net/scientific-contributions/57113422_Sylvain_Lesage"
 
 [params.comments]
 enable = false
