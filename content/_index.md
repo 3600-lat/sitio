@@ -6,11 +6,11 @@ menu:
 weight: -90
 ---
 
-<span class="marca">3600.lat</span> es una empresa consultora creada en 2018, ubicada en la ciudad de La Paz, Bolivia, dedicada a la provisión de servicios de alto nivel para extraer el valor de los datos geográficos.
+<span class="marca">3600.lat</span> es una empresa consultora creada en 2018, ubicada en la ciudad de La Paz, Bolivia, dedicada a la provisión de servicios de alto nivel para extraer el valor de los datos.
 
 ## Mapas y graficos interactivos
 
-Realizamos el diseño de aplicaciones web, mapas interactivos y estáticos, reportes y gráficos.
+Realizamos el diseño de aplicaciones web, reportes, gráficos, mapas interactivos y estáticos, .
 
 Referencias personales:
 
@@ -27,7 +27,7 @@ Referencias personales:
 - Modelización: en [Acsystème](http://www.acsysteme.com/en/) realizamos informática científica, simulación, modelización y optimización de sistemas para las industrías de producción automotriz, eléctrica o alimenticia.
 - Machine Learning: doctorado en el [INRIA](https://inria.fr) de Francia, sobre aprendizaje automático de patrones para la separación automática de señales audio.
 
-## Sistemas de informacion geografica
+## Sistemas de informacion geográfica
 
 Diseñamos, instalamos y administramos sistemas de información geográfica, bases de datos espaciales, e infraestructuras de datos espaciales.
 
