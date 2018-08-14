@@ -1,23 +1,33 @@
 /* Paleta de base: https://color.adobe.com/es/Japanese-Modern-color-theme-87573/ */
 
 @font-face {
-    font-family: 'norwesterregular';
-    src: url('../fonts/norwester-webfont.woff2') format('woff2'),
-         url('../fonts/norwester-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+  font-family: "norwesterregular";
+  src: url("../fonts/norwester-webfont.woff2") format("woff2"),
+    url("../fonts/norwester-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
 }
+@font-face {
+  font-family: "fjallaoneregular";
+  src: url("../fonts/fjallaone-regular-webfont.woff2") format("woff2"),
+    url("../fonts/fjallaone-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
 #sidebar .logo {
   max-width: 10em;
 }
 
-.site-title {
-  font-family: 'norwesterregular';
+.site-title,
+.marca {
+  font-family: "norwesterregular";
+  font-style: normal;
 }
 
-.marca, h2 {
+h2 {
   font-style: normal;
-  font-family: 'norwesterregular';
+  font-family: "fjallaoneregular";
 }
 
 section.contactos {
@@ -60,7 +70,8 @@ section.contacto div.contenedor p.enlace-mapa {
   margin-top: 1em;
 }
 
-section.personas {}
+section.personas {
+}
 section.persona {
   display: block;
   padding: 1em 0 2em 1em;
@@ -84,7 +95,7 @@ section.persona div.contenedor div.left img {
   height: 120px;
   margin: 5px auto;
   width: 120px;
-  border-color: #CBB370;
+  border-color: #cbb370;
   border-style: solid;
   border-width: 5px;
 }
