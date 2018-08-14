@@ -19,13 +19,15 @@
   max-width: 10em;
 }
 
-.site-title,
+.title.site-title,
 .marca {
   font-family: "norwesterregular";
   font-style: normal;
 }
 
-h2 {
+h1,
+h2,
+.title {
   font-style: normal;
   font-family: "fjallaoneregular";
 }
