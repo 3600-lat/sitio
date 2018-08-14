@@ -5,18 +5,18 @@ title: 🗣️ ¡Estamos abiertos!
 categories:
   - 3600.lat
 slug: creacion-de-3600-lat
-cover:
-  image: /test/images/cubo.jpg
-  caption: Nacimiento...
-  style: normal
+#cover:
+#  image: /test/images/cubo.jpg
+#  caption: Nacimiento...
+#  style: normal
 ---
 
 Tenemos el placer de anunciarles que
 
 <div class="enfasis">
-<p>~^~</p>
+<p>.~.~.</p>
 <p>👼 <em>nació nuestra empresa {{<marca>}}</em> 👼</p>
-<p>~^~</p>
+<p>.~.~.</p>
 </div>
 
 Sus dos papas se portan bien, son felices y les agradecen a todas y todos por 
@@ -75,9 +75,20 @@ pública.
 
 ## ¿Por qué 3600.lat?
 
-Nuestro nombre {{<marca>}} hace referencia a nuestra ciudad, La Paz - Bolivia,
-con sus 3.600m de altura.
+Nuestro nombre {{<marca>}} hace referencia a nuestra ciudad de La Paz - Bolivia,
+y sus 3.600m de altura.
 
 {{< youtube G_v7TyHUSXY >}}
+
+Se refiere también a América Latina, nuestra patría grande, con su historia, 
+sus pueblos, y su geografía.
+
+Soñamos con aportar nuestra expertiz a la resolución
+de problemas en cualquier <span class="marca">lat</span>itud del continente 
+latinoamericano.
+
+{{%center%}}
+[Esperamos su contacto]({{<ref "/page/contacto.md">}})
+{{%/center%}}
 
 
