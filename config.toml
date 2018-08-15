@@ -76,51 +76,9 @@ facebook = "3600.lat"
 #github = "MunifTanjim"
 #gitlab = "Mun"
 #instagram = "MunifTanjim"
-linkedin_company = "3600-lat"
 twitter = "3600LAT"
 #telegram = "MunifTanjim"
 youtube = "UCxC6dQTYyV2ewsthbsql26A"
-youtube_name = "3600.LATBOL"
-
-[params.direccion]
-url = "https://www.openstreetmap.org/?mlat=-16.506767570972443&mlon=-68.13326954841614#map=18/-16.50677/-68.13327"
-direccion = ["Edificio Qhana, planta baja / L-2", "Nº522 calle Landaeta, Sopocachi", "La Paz", "Bolivia"]
-
-[params.personas.rmolina]
-id = "Fernando"
-nombre = "Fernando Molina"
-foto = "images/rmolina.jpg"
-presentacion = "Profesional geógrafo, modeliza e interpreta el territorio mediante mapas; crea, analiza y visualiza datos, genera simbologías"
-celular = "+591-72000576"
-correo = "rmolina@3600.lat"
-mensajerias = ["signalapp", "telegram", "whatsapp"]
-paginapropia = "https://rincondelosgeografos.blogspot.com/"
-
-[params.personas.rmolina.social]
-twitter = "https://twitter.com/rafemoro"
-github = "https://github.com/rafemoro"
-linkedin = "https://www.linkedin.com/in/rafemoro/"
-#graduation-cap = "https://www.researchgate.net/profile/Raul_Molina-Rodriguez"
-
-[params.personas.slesage]
-id = "Sylvain"
-nombre = "Sylvain Lesage"
-foto = "images/slesage.jpg"
-presentacion = "Desarrolla software, diseña mapas, analiza datos y aplica algoritmos."
-celular = "+591-71542024"
-correo = "slesage@3600.lat"
-mensajerias = ["signalapp", "telegram"]
-paginapropia = "https://rednegra.net/sylvainlesage"
-
-[params.personas.slesage.social]
-twitter = "https://twitter.com/mapsinbolivia"
-#mastodon = "https://mamot.fr/@severo_bo"
-#quote-right = "https://seenthis.net/people/severo"
-linkedin = "https://www.linkedin.com/in/sylvain-lesage-42793015a/"
-#keybase = "https://keybase.io/severo"
-github = "https://github.com/severo"
-gitlab = "https://framagit.org/severo"
-#graduation-cap = "https://www.researchgate.net/scientific-contributions/57113422_Sylvain_Lesage"
 
 [params.comments]
 enable = false

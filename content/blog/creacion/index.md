@@ -4,7 +4,7 @@ lastmod: 2018-08-13T19:00:00-04:00
 title: 📣 ¡Estamos abiertos!
 categories:
   - 3600.lat
-slug: creacion-de-3600-lat
+#slug: creacion-de-3600-lat
 #cover:
 #  image: /test/images/cubo.jpg
 #  caption: Nacimiento...
@@ -35,7 +35,7 @@ el análisis de datos y de métricas, para entender la información, procesarla
 desvelando sus aristas más características, y presentarla en formatos originales
 y estéticos.
 
-{{%center%}} [Contáctenos]({{<ref "/page/contacto.md">}}) {{%/center%}}
+{{%center%}} [Contáctenos]({{<ref "/contacto">}}) {{%/center%}}
 
 Nos especializamos particularmente en:
 
@@ -47,8 +47,8 @@ Nos especializamos particularmente en:
 
 ## ¿Quienes somos?
 
-{{%center%}} [R. Fernando Molina]({{<ref "/page/contacto.md#Fernando">}}) y
-[Sylvain Lesage]({{<ref "/page/contacto.md#Sylvain">}}) {{%/center%}}
+{{%center%}} [R. Fernando Molina]({{<ref "r-fernando-molina">}}) y [Sylvain
+Lesage]({{<ref "sylvain-lesage">}}) {{%/center%}}
 
 Trabajamos juntos desde el año 2011, con la creación del proyecto
 [GeoBolivia](https://geo.gob.bo) al cuál contribuimos desde los enfoques
@@ -57,17 +57,17 @@ instituciones del Estado boliviano líderes en temas de tecnologías libres y
 datos abiertos: la [ADSIB](https://adsib.gob.bo) y la
 [AGETIC](https://agetic.gob.bo).
 
-[R. Fernando Molina]({{<ref "/page/contacto.md#Fernando">}}) es boliviano, tiene
-una formación de geógrafo, obtuvo un master en ordenación y desarrollo
-territorial en la Universidad de Andalucía, España, y cuenta con una amplia
-experiencia en la gestión de infraestructuras de datos espaciales, análisis de
-datos y elaboración de mapas.
+[R. Fernando Molina]({{<ref "r-fernando-molina">}}) es boliviano, tiene una
+formación de geógrafo, obtuvo un master en ordenación y desarrollo territorial
+en la Universidad de Andalucía, España, y cuenta con una amplia experiencia en
+la gestión de infraestructuras de datos espaciales, análisis de datos y
+elaboración de mapas.
 
-[Sylvain Lesage]({{<ref "/page/contacto.md#Sylvain">}}) es franco-boliviano,
-tiene una formación en matemáticas aplicadas, obtuvo un doctorado en
-telecomunicaciones y procesamiento de señales de la Universidad de Rennes,
-Francia, y cuenta con experiencias en informática científica, desarrollo web,
-visualización de datos, y gestión pública.
+[Sylvain Lesage]({{<ref "sylvain-lesage">}}) es franco-boliviano, tiene una
+formación en matemáticas aplicadas, obtuvo un doctorado en telecomunicaciones y
+procesamiento de señales de la Universidad de Rennes, Francia, y cuenta con
+experiencias en informática científica, desarrollo web, visualización de datos,
+y gestión pública.
 
 ## ¿Por qué 3600.lat?
 
@@ -82,5 +82,4 @@ pueblos, y su geografía.
 Soñamos con aportar nuestra conocimiento a la resolución de problemas en
 cualquier <span class="marca">lat</span>itud del continente latinoamericano.
 
-{{%center%}} [Esperamos su contacto]({{<ref "/page/contacto.md">}})
-{{%/center%}}
+{{%center%}} [Esperamos su contacto]({{<ref "/contacto">}}) {{%/center%}}

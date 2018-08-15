@@ -1,0 +1,28 @@
+<section class="persona" id="{{.Params.id}}">
+  <h2>{{.Params.nombre}}</h2>
+  <div class="contenedor">
+    <div class="left">
+      <a href="{{ print "/equipo/" .Params.id |relURL}}">
+        <img src="{{ .Params.foto |relURL }}" />
+      </a>
+      <p class="social">
+        {{ partial "iconos-sociales.html" .Params.social}}
+      </p>
+    </div>
+    <div class="right">
+      {{.Summary}}
+      <p class="celular">
+        Teléfono: <a href="tel:{{.Params.celular}}">{{ .Params.celular }}</a>
+        (también por {{range .Params.mensajerias}}
+          <i class="fa fa-{{.}}"></i>
+        {{ end }})
+      </p>
+      <p>
+        Correo: <a href="mailto:{{.Params.correo}}">{{.Params.correo}}</a>
+      </p>
+      <p class="enlace">
+        <a href={{ .Permalink }}>Leer más</a>
+      </p>
+    </div>
+  </div>
+</section>
