@@ -10,9 +10,6 @@ nombre: "Sylvain Lesage"
 foto: "images/slesage.jpg"
 celular: "+591-71542024"
 correo: "slesage@3600.lat"
-mensajerias:
-  - "signalapp"
-  - "telegram"
 social:
   twitter: "https://twitter.com/mapsinbolivia"
   github: "https://github.com/severo"

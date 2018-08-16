@@ -13,9 +13,6 @@
       {{.Summary}}
       <p class="celular">
         Teléfono: <a href="tel:{{.Params.celular}}">{{ .Params.celular }}</a>
-        (también por {{range .Params.mensajerias}}
-          <i class="fa fa-{{.}}"></i>
-        {{ end }})
       </p>
       <p>
         Correo: <a href="mailto:{{.Params.correo}}">{{.Params.correo}}</a>

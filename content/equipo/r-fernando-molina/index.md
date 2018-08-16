@@ -11,10 +11,6 @@ foto: "images/rmolina.jpg"
 presentacion: "Profesional geógrafo, modeliza e interpreta el territorio mediante mapas; crea, analiza y visualiza datos, genera simbologías"
 celular: "+591-72000576"
 correo: "rmolina@3600.lat"
-mensajerias:
-  - "signalapp"
-  - "telegram"
-  - "whatsapp"
 social:
   twitter: "https://twitter.com/rafemoro"
   github: "https://github.com/rafemoro"
