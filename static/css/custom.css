@@ -135,3 +135,32 @@ div.enfasis {
   margin: 2em;
   text-align: center;
 }
+
+section.descargas {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+}
+
+.descarga {
+  display: block;
+  position: relative;
+  max-width: 120px;
+  margin: 10px;
+}
+
+.descarga a {
+  border-bottom: none;
+  text-align: center;
+}
+.descarga a img {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+}
