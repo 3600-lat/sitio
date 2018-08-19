@@ -28,25 +28,34 @@ del artista uruguayo
 Y a través del Cubo de Rubik, esperamos expresar nuestra capacidad de resolución
 de problemas difíciles, recurriendo a metodologías y algoritmos avanzados.
 
-## Cubo de Rubik terráqueo
+## Cubo terráqueo de Rubik
 
 Pero basta de metáforas. ¡Teníamos que construir el Cubo de Rubik y tratar de
-resolverlo! Después de varios intentos, lamentablemente tuvimos que recurrir a
-nuestros amigos [Horacio](https://twitter.com/horlop) y
-[Natalia](https://twitter.com/Rizomias) para destrabarlo. Mil gracias a los dos.
+resolverlo! Después de varios intentos, trabados y enredados, tuvimos que
+recurrir a nuestros amigos [Horacio](https://twitter.com/horlop) y
+[Natalia](https://twitter.com/Rizomias). Mil gracias a los dos.
 
-{{<youtube TODO>}}
+{{<youtube k8kl758Xt6Q>}}
 
 Nota: este cubo tiene una dificultad adicional al cubo clásico. ¿Sabrás
 descubrir cuál es?
 
-Aquí ponemos el plano a disposición para su descarga. Está diseñado para un cubo
-de 53mm de ancho.
+Aquí ponemos el plano a disposición para su descarga:
 
 {{% descargas %}}
 {{< descarga imagen="cubo.png" texto="PDF" archivo="cubo.pdf" >}}
 {{< descarga imagen="cubo.png" texto="SVG" archivo="cubo.svg" >}}
 {{% /descargas %}}
+
+Algunas recomendaciones prácticas:
+
+- está diseñado para un cubo de 53mm de ancho, y para impresión en una hoja
+  adhesiva de tamaño carta
+- mejor usar un cubo de color negro
+- antes de imprimir sobre una hoja adhesiva, hacer pruebas de impresión para
+  asegurarse de la resolución y del tamaño
+- para una impresión más nítida, mejor usar el formato SVG que el formato PDF
+- pegar cinta adhesiva encima para proteger los "stickers"
 
 ¡Si realizas uno, sácale una foto <i class="fa fa-camera-retro"></i>, y
 [avísanos]({{<ref "/contacto">}})!
