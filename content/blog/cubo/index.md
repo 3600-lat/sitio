@@ -1,7 +1,7 @@
 ---
 date: 2018-08-18T14:00:00-04:00
 lastmod: 2018-08-18T19:00:00-04:00
-title: La cuadratura de la esfera
+title: La cuadratura del globo
 categories:
 - 3600.lat
 - proyección
