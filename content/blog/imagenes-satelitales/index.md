@@ -19,20 +19,20 @@ A la fecha hay muchas fuentes para la descarga de imágenes satelitales, entre e
 
 Este visor utiliza el fondo de mapa de  OpenStreetMap, además se nutre hasta la fecha de 12 recursos satelitales diferentes con los que se puede realizar visualizaciones y combinaciones de bandas:
 
-  - Landsat 5 ESA
-  - Landsat 7 ESA
-  - Landsat 8 ESA
-  - Landsat 8 USGS
-  - Sentinel-1 GRD
-  - Sentinel-2 L1C
-  - Sentinel-2 L2A
-  - Sentinel-3 OLCI
-  - Sentinel-5P (BETA)
-  - Envisat Meris
-  - Proba-V
-  - GIBS
+- Landsat 5 ESA
+- Landsat 7 ESA
+- Landsat 8 ESA
+- Landsat 8 USGS
+- Sentinel-1 GRD
+- Sentinel-2 L1C
+- Sentinel-2 L2A
+- Sentinel-3 OLCI
+- Sentinel-5P (BETA)
+- Envisat Meris
+- Proba-V
+- GIBS
 
-Deberemos seleccionar el recurso satelital e identificar las fechas para poder acceder al listado de archivos disponibles para la zona visualizada. Junto a las nuevas funciones del visor también se tiene  la opción de subida de archivos en formato KML o KMZ de las zonas en las que estamos interesados. De esta forma podremos identificar los límites espaciales del lugar de interés y realizar descargas concretas sin realizar búsquedas geográficas.</div>
+Deberemos seleccionar el recurso satelital e identificar las fechas para poder acceder al listado de archivos disponibles para la zona visualizada. Junto a las nuevas funciones del visor también se tiene  la opción de subida de archivos en formato KML o KMZ de las zonas en las que estamos interesados. De esta forma podremos identificar los límites espaciales del lugar de interés y realizar descargas concretas sin realizar búsquedas geográficas.
 
 _¿Cómo descargar  imágenes de satélite con EO Browser?_
 
