@@ -34,7 +34,7 @@ Este visor utiliza el fondo de mapa de  OpenStreetMap, además se nutre hasta la
 
 Deberemos seleccionar el recurso satelital e identificar las fechas para poder acceder al listado de archivos disponibles para la zona visualizada. Junto a las nuevas funciones del visor también se tiene  la opción de subida de archivos en formato KML o KMZ de las zonas en las que estamos interesados. De esta forma podremos identificar los límites espaciales del lugar de interés y realizar descargas concretas sin realizar búsquedas geográficas.</div>
 
-_**¿Cómo descargar  imágenes de satélite con EO Browser? **_
+_¿Cómo descargar  imágenes de satélite con EO Browser?_
 
 Aquí les comparto un primer video
 
