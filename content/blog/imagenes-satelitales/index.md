@@ -60,6 +60,5 @@ En las siguientes publicaciones iremos desglosando los diferentes recursos dispo
 
 Hasta la proxima.
 
-{{< figure src="images/">}}
-{{% descargas %}} {{< descarga imagen="Sentinel-2_L1C-timelapse__villamontes.gif" texto="GIF" archivo="Sentinel-2_L1C-timelapse__villamontes.gif" >}}
+
 
