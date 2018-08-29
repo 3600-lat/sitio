@@ -19,7 +19,7 @@ Por lo tanto cualquier persona (no especializada) pueda visualizar, consultar y 
 
 Como mencionamos anteriorme a la fecha hay muchas fuentes para la descarga de imágenes satelitales, entre ellas existe el [EO Browser](https://apps.sentinel-hub.com/eo-browser/?lat=-4.83&lng=-71.41&zoom=5) que es un visor que nos permite visualizar imágenes provenientes de diferentes recursos satelitales  pudiendo seleccionar el momento temporal, la cobertura de nubes y realizar combinaciones de bandas personalizadas.
 
-Este visor utiliza el fondo de mapa de  [OpenStreetMap](https://www.openstreetmap.org/#map=6/-16.267/-64.823), además se nutre hasta la fecha de 12 recursos satelitales diferentes con los que se puede realizar visualizaciones y combinaciones de bandas:
+Este visor utiliza el fondo de mapa de  [OpenStreetMap](https://www.openstreetmap.org/#map=6/-16.267/-64.823), además se nutre hasta la fecha  de doce recursos satelitales diferentes con los que se puede realizar visualizaciones y combinaciones de bandas:
 
 - Landsat 5 ESA
 - Landsat 7 ESA
@@ -38,7 +38,7 @@ Deberemos seleccionar el recurso satelital e identificar las fechas para poder a
 
 _¿Cómo descargar  imágenes de satélite con EO Browser?_
 
-Aquí les comparto un primer video
+Aquí les comparto un primer video:
 
 {{< youtube CamR_DDwcBw >}}
 
@@ -56,5 +56,5 @@ Sin duda, el desarrollo tecnológico está permitiendo contar con estas herramie
 
 En las siguientes publicaciones iremos desglosando los diferentes recursos disponibles de esta plataforma y otras.
 
-Hasta la proxima
+Hasta la proxima.
 
