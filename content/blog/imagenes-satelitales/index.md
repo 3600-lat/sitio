@@ -7,7 +7,7 @@ categories:
   - Imagenes
   - Web Services
   - Datos
-slug: procesando-imagenes-satelitales-con-software-libre
+slug: Descargando-imagenes-satelitales-de-Bolivia
 cover:
   image: /images/eobrowser.jpg
   caption: Interfaz EOBrowser
