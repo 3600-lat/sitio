@@ -47,6 +47,8 @@ La composición de imágenes, tanto a falso color como a color real, y la posibi
 
 En nuestro siguiente video explicaremos estas funcionalidades.
 
+{{< youtube CamR_DDwcBw >}}
+
 Sin duda, el desarrollo tecnológico está permitiendo contar con estas herramientas via WEB que brinda a los usuarios (no especializados) acceder a datos satelitales, conocer su territorio, que hace 5 años era complicado. 
 
 En las siguientes publicaciones iremos desglosando los diferentes recursos disponibles de esta plataforma y otras.
