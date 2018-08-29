@@ -12,10 +12,11 @@ cover:
   caption: Rubik's Cube andino
   style: normal
 ---
-Actualmente, la inmensa mayoría de los datos producidos por la actividad científica es analizada y procesada utilizando diversas herramientas de software, que abarcan desde la más sencilla planilla de cálculos, hasta el más complejo de los sistemas desplegados en clusters. En las tareas más triviales,ciertos aspectos de las herramientas informáticas pueden pasar desapercibidos a los usuarios.
+Actualmente, existen gran cantidad de sitios web para descargar imágenes satelitales. Este artículo brinda una guía de como descargar de manera facil, gratuita y segura. 
+Por lo tanto cualquier persona (no especializada) pueda visualizar, consultar y calcular índices básicos de analisis del territorio.
 
 
-A la fecha hay muchas fuentes para la descarga de imágenes satelitales, entre ellas existe el [EO Browser](https://apps.sentinel-hub.com/eo-browser/?lat=-4.83&lng=-71.41&zoom=5) que es un visor que nos permite visualizar imágenes provenientes de diferentes recursos satelitales  pudiendo seleccionar el momento temporal, la cobertura de nubes y realizar combinaciones de bandas personalizadas.
+Como mencionamos anteriorme a la fecha hay muchas fuentes para la descarga de imágenes satelitales, entre ellas existe el [EO Browser](https://apps.sentinel-hub.com/eo-browser/?lat=-4.83&lng=-71.41&zoom=5) que es un visor que nos permite visualizar imágenes provenientes de diferentes recursos satelitales  pudiendo seleccionar el momento temporal, la cobertura de nubes y realizar combinaciones de bandas personalizadas.
 
 Este visor utiliza el fondo de mapa de  OpenStreetMap, además se nutre hasta la fecha de 12 recursos satelitales diferentes con los que se puede realizar visualizaciones y combinaciones de bandas:
 
