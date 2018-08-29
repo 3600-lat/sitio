@@ -56,5 +56,7 @@ Sin duda, el desarrollo tecnológico está permitiendo contar con estas herramie
 
 En las siguientes publicaciones iremos desglosando los diferentes recursos disponibles de esta plataforma y otras.
 
+
+
 Hasta la proxima.
 
