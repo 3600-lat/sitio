@@ -39,7 +39,7 @@ _¿Cómo descargar  imágenes de satélite con EO Browser?_
 
 Aquí les comparto un primer video
 
-{{< youtube CamR_DDwcBw >}}  
+{{< youtube LCTE3iV_Rco >}}  
 
 La lógica de funcionamiento no dista mucho del resto de visores. Una selección del recurso satelital, la fecha y la posibilidad de realizar composiciones RGB son las funciones básicas del visor para disponer de las imágenes satélites y los análisis multiespectrales que busquemos. Un sistema de memoria de imágenes permite archivar mosaicos en la sección My pins, pudiendo realizar comparaciones temporales entre imágenes mediante efecto split o por transparencia. Asimismo podemos generar un GIFT con todas las imágenes disponibles y de esta forma tener la posibilidad de realizar un análisis multitemporal de nuestra área de estudio 
 
