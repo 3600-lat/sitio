@@ -60,5 +60,5 @@ En las siguientes publicaciones iremos desglosando los diferentes recursos dispo
 
 Hasta la proxima.
 
-{{< figure src="static/images/Sentinel-2_L1C-timelapse__villamontes.gif">}}
+{{< figure src="images/Sentinel-2_L1C-timelapse__villamontes.gif">}}
 
