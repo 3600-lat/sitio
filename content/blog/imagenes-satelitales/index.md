@@ -6,10 +6,11 @@ draft: false
 categories:
   - Imagenes
   - Web Services
+  - Datos
 slug: procesando-imagenes-satelitales-con-software-libre
 cover:
   image: /images/eobrowser.jpg
-  caption: Rubik's Cube andino
+  caption: Interfaz EOBrowser
   style: normal
 ---
 Actualmente, existen gran cantidad de sitios web para descargar imágenes satelitales. Este artículo brinda una guía de como descargar de manera facil, gratuita y segura. 
