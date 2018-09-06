@@ -39,4 +39,4 @@ Asimismo , este servicio te permite :
 
 A continuación construiremos nuestro mapa web a partir de la siguiente secuencia:
 
-
+{{< figure src="/images/mapa_web.jpg" alt="Cuatro pasos" >}}
