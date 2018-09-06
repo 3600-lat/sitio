@@ -9,7 +9,7 @@ categories:
   - Datos
 slug: Mapas-web
 cover:
-  image: /images/umap.png
+  image:  images/umap_web.jpg
   caption: Mapa WEB
   style: normal
 ---
