@@ -42,9 +42,13 @@ A continuación construiremos nuestro mapa web a partir de la siguiente secuenci
 {{< figure src="/images/mapa_web.jpg" alt="Cuatro pasos" >}}
 
 ### Primer Paso
+{{< youtube cjW-Fh571Kk>}}
 ### Segundo Paso
+{{< youtube y7Kaf9eRUXQ>}}
 ### Tercer Paso
+{{< youtube dOa7iAQtFEs>}}
 ### Cuarto Paso
+{{< youtube _Bc3XiV5v6s>}}
 
 Aqui tienes el producto final http://umap.openstreetmap.fr/es/map/mapa-de-asaltos_245223#13/-16.5068/-68.0835
 
