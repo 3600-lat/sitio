@@ -7,7 +7,6 @@ categories:
   - Visualización de datos
   - Mapas Web
   - Datos
-slug: mapas-web
 cover:
   image: /images/umap_web.jpg
   caption: Mapa WEB
