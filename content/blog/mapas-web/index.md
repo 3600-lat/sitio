@@ -2,7 +2,7 @@
 date: 2018-09-05T08:00:00-04:00
 lastmod: 2018-09-05T08:00:00-04:00
 title: ¿Como construir un mapa web en Cuatro (4) pasos?
-draft: true
+draft: false
 categories:
   - Visualización de datos
   - Mapas Web
