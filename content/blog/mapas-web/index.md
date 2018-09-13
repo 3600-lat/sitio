@@ -69,9 +69,9 @@ Para embeberlo aqui:
   height="300px"
   frameBorder="0"
   allowfullscreen
-  src="http://umap.openstreetmap.fr/es/map/mapa-de-asaltos_245223?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"
+  src="https://umap.openstreetmap.fr/es/map/mapa-de-asaltos_245223?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"
   ></iframe>
-<p><a href="http://umap.openstreetmap.fr/es/map/mapa-de-asaltos_245223">Ver pantalla completa</a></p>
+<p><a href="https://umap.openstreetmap.fr/es/map/mapa-de-asaltos_245223">Ver pantalla completa</a></p>
 
 Finalmente te desafio a que construyas tu mapa web utilizando estos datos almacenados en [GeoBolivia](http://geo.gob.bo/download/?w=GobMunicipal&l=Museoswgs84) proveniente del Gobierno Automono Municipal de La Paz.
 
