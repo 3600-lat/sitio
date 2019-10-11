@@ -32,7 +32,7 @@ En el artículo pretendo describir el proceso para generar el reporte a nivel de
 
 Aquí les comparto el proceso:
 
-{{< youtube sO0GPfVkXVE >}}
+{{< youtube 8nr3SZM-Y9w >}}
 
 
 Esta herramienta es super útil ojala puedan probarlo y generar los reportes que deseen, felicitar al INE por la plataforma falta aún mejorar los formatos de descarga y simplificar el proceso sería genial
