@@ -15,6 +15,10 @@ cover:
   style: normal
 ---
 
+OpenStreetMap, de un tiempo a esta parte se ha covertido en una herramienta fundamental para nuestro trabajo, mucha gente ayuda a su actualización de manera voluntaria, pero su gran potencial
+es en la oportunidad que nos brinda para su descarga.
+
+Existen muchas formas y muchas herramientas desarrolladas, sin embargo mediante QGIS3 es una buena opción
 Sin duda, los requerimientos de información a mayor detalle son los mas requeridos en estos tiempos , sobretodo la sociodemográfica (censal) que es la base para la planificación territorial
 a cualquier escala. En ese sentido, es que describimos este proceso que puede ser útil al momento de tomar decisiones (consultorías, investigaciones, etc).
 
