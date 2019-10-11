@@ -1,7 +1,7 @@
 date: 2019-10-11T14:00:00-04:00
 lastmod: 2019-10-11T19:00:00-04:00
 title: Generar reportes de datos socio-demográficos a nivel de manzanos censales, Bolivia
-draft: false
+draft: true
 categories:
   - OSM
   - Web Services
