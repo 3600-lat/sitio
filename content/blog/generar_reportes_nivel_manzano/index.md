@@ -1,7 +1,8 @@
+---
 date: 2019-10-11T14:00:00-04:00
 lastmod: 2019-10-11T19:00:00-04:00
 title: Generar reportes de datos socio-demográficos a nivel de manzanos censales, Bolivia
-draft: true
+draft: false
 categories:
   - OSM
   - Web Services
@@ -26,7 +27,7 @@ En el artículo pretendo describir el proceso para generar el reporte a nivel de
 
 
 
-_¿Cómo generar el reporte?_
+##¿Cómo generar el reporte?
 
 Aquí les comparto el proceso:
 
