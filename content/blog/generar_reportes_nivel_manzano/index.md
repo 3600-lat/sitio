@@ -39,6 +39,7 @@ Esta herramienta es super útil ojala puedan probarlo y generar los reportes que
 Si tienes alguna duda sobre el proceso no dudes en escribirnos a contacto@3600.lat o por nuestras redes sociales donde estaremos atentos a tus comentarios.
 
 SaluDATOS…
+@rafemoro
 
 
 
