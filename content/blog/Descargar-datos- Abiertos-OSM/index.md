@@ -1,16 +1,17 @@
 ---
 date: 2019-10-11T14:00:00-04:00
 lastmod: 2019-10-11T19:00:00-04:00
-title: Generar reportes de datos socio-demográficos a nivel de manzanos censales, Bolivia
+title: Descargar datos Abiertos OpenStreetMap mediante QGIS3
 draft: true
 categories:
   - OSM
   - Web Services
   - Datos
-slug: Generar-reportes-de-datos-socio-demográficos-a-nivel-de-manzanos-censales-,- Bolivia
+slug: Descargar-datos-Abiertos-OpenStreetMap-mediante-QGIS3
+
 cover:
-  image: /images/ine_amanzanado.jpg
-  caption: Interfaz GeoINE
+  image: /images/osm_download.jpg
+  caption: Descarga datos OSM en QGIS3
   style: normal
 ---
 
