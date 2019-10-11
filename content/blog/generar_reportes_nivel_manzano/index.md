@@ -4,9 +4,10 @@ lastmod: 2019-10-11T19:00:00-04:00
 title: Generar reportes de datos socio-demográficos a nivel de manzanos censales, Bolivia
 draft: false
 categories:
-  - OSM
+  - Bolivia
   - Web Services
   - Datos
+  - i3geo
 slug: Generar-reportes-de-datos-socio-demográficos-a-nivel-de-manzanos-censales-,- Bolivia
 cover:
   image: /images/ine_amanzanado.jpg
