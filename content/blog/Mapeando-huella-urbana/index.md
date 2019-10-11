@@ -1,15 +1,15 @@
-date: 2018-08-28T14:00:00-04:00
-lastmod: 2018-08-28T19:00:00-04:00
-title: Descargando imagenes satelitales de Bolivia 
+date: 2019-10-11T14:00:00-04:00
+lastmod: 2019-10-11T19:00:00-04:00
+title: Generar reportes de datos socio-demográficos a nivel de manzanos censales, Bolivia
 draft: false
 categories:
-  - Imagenes
+  - OSM
   - Web Services
   - Datos
-slug: Descargando-imagenes-satelitales-de-Bolivia
+slug: Generar-reportes-de-datos-socio-demográficos-a-nivel-de-manzanos-censales-,- Bolivia
 cover:
-  image: /images/eobrowser.jpg
-  caption: Interfaz EOBrowser
+  image: /images/ine_amanzanado.jpg
+  caption: Interfaz GeoINE
   style: normal
 ---
 Actualmente, existen gran cantidad de sitios web para descargar imágenes satelitales. Este artículo brinda una guía de como descargar de manera facil, gratuita y segura. 
