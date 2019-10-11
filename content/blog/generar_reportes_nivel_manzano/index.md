@@ -27,7 +27,7 @@ En el artículo pretendo describir el proceso para generar el reporte a nivel de
 
 
 
-##¿Cómo generar el reporte?
+## ¿Cómo generar el reporte?
 
 Aquí les comparto el proceso:
 
