@@ -2,7 +2,7 @@
 date: 2019-10-11T14:00:00-04:00
 lastmod: 2019-10-11T19:00:00-04:00
 title: Descargar datos Abiertos OpenStreetMap mediante QGIS3
-draft: true
+draft: false
 categories:
   - OSM
   - Web Services
