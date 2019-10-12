@@ -40,7 +40,7 @@ Aquí les comparto el proceso:
 {{< youtube 8nr3SZM-Y9w >}}
 
 
-Nosotros la utilizamos estos datos de OSM como una primera aproximación, validar información OFICIAL y desarrollar aplicaciones, y simultaneamente vamos actualizando sectores que aún faltan completar
+Nosotros la utilizamos estos datos de OSM como una primera aproximación, validar información OFICIAL y desarrollar aplicaciones, y simultaneamente vamos actualizando sectores que aún faltan completar.
 
 Agradecer a todos los voluntarios y desarrolladores que apoyan a OpenStreetMap, hay mucho por hacer si quieres ser un mapeador de OSM visita este [link](https://learnosm.org/es/) les ayudará mucho.
 
