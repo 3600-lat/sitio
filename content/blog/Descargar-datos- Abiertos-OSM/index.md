@@ -28,7 +28,7 @@ Ahora pasaremos a describir este proceso para su respectiva descarga y comprende
 
 De la siguiente manera:
 
-- Primero ingresamos a QGIS
+- Primero ingresamos a [QGIS](https://www.qgis.org/es/site/) 
 - Seguidamente selecciono en la barra de menús la opción complementos/ Instalo la herramienta [OSMDownloader](https://github.com/lcoandrade/OSMDownloader)
 - Una vez instalado, verificamos el icono de descarga, le hacemos click y; 
 - seleccionamos el área a descargar (podemos utilizar una geometria del área de estudio)
