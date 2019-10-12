@@ -15,24 +15,28 @@ cover:
   style: normal
 ---
 
-OpenStreetMap, de un tiempo a esta parte se ha covertido en una herramienta fundamental para nuestro trabajo, mucha gente ayuda a su actualización de manera voluntaria, pero su gran potencial
-es en la oportunidad que nos brinda para su descarga.
+[OpenStreetMap](https://www.openstreetmap.org/#map=14/-16.5297/-68.1108), de un tiempo a esta parte se ha convertido en una herramienta fundamental para nuestro trabajo, mucha gente ayuda a su actualización de manera voluntaria, pero su gran potencial
+es en la oportunidad que nos brinda para su descarga, con su respectiva licencia abierta.
 
-Existen muchas formas y muchas herramientas desarrolladas, sin embargo mediante QGIS3 es una buena opción
-Sin duda, los requerimientos de información a mayor detalle son los mas requeridos en estos tiempos , sobretodo la sociodemográfica (censal) que es la base para la planificación territorial
-a cualquier escala. En ese sentido, es que describimos este proceso que puede ser útil al momento de tomar decisiones (consultorías, investigaciones, etc).
+Ahora pasaremos a describir este proceso para su respectiva descarga y comprender sus ventajas y limitaciones al respecto.
 
-En el artículo pretendo describir el proceso para generar el reporte a nivel de manzano de la siguiente manera:
+-Ventajas son muchas, estos datos son una primera aproximación de un territorio a intervenir (sobretodo en territorios con ausencia de información);
+-Datos almacenados en una base de datos, permite su consulta ágil y rápida
+-En cuanto a sus desventajas; es la heterogeneidad de la información (lugares con mucha información y otras con baja), eso significa contar con mayor cantidad de voluntarios que ayuden a la constante actualización y tambien la verificación (control de calidad) de la información capturada.
 
-- Primero ingresa al siguiente link: http://geo.ine.gob.bo/cartografia1/
-- Seguidamente selecciona : Visualizaciones/MapasCenso2012
+## ¿Cómo descargamos los datos de OSM?
+
+De la siguiente manera:
+
+- Primero ingreso a QGIS
+- Seguidamente selecciono en la barra de menús la opción complementos/ Instalo la herramienta OSN
 - Ingresa a la plataforma desarrollada sobre [I3GEO](https://softwarepublico.gov.br/gitlab/i3geo/i3geo/commit/63f28b011019104c2f1c29ae84dcaaf7ff6e6218) (Interface Integrada para Internet de Ferramentas de Geoprocessamento) es una aplicación para el desarrollo de mapas interactivos en la web, que integra varias aplicaciones de código abierto en una sola plataforma de desarrollo, principalmente Mapserver y OpenLayers. El programa se distribuye con licencia GPL (GNU General Public License), que permite acceder al código fuente y modificar, distribuir y compartir el software y fue creado por el Ministério do Meio Ambiente (MMA) de Brasil en 2004.
 - Brinda la opción de visualizar por Departamentos (disperso, amanzanada), por supuesto nosotros elegiremos la opción AMANZANADA.
 - Procedemos a la selección del área de interes como en el video se puede observar y generar el reporte en PDF ( la opción -XLS a mi no me funciona) sería ideal que la habiliten en *.CSV
 
+Nosotros la utilizamos como una primera aproximación, validar información OFICIAL y desarrollar aplicaciones 
 
 
-## ¿Cómo generar el reporte?
 
 Aquí les comparto el proceso:
 
