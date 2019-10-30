@@ -6,14 +6,16 @@ categories:
   - Elecciones Presidenciales
   - Mapas
   - Datos
+cover:
+  image: /images/elecciones_final1.png
+  caption: Mapa WEB
+  style: normal
+
 slug: Nuevo-Mapa-Politico-del-Estado-Plurinacional-de-Bolivia
 
 ---
 A más de una semana de la elecciones presidenciales en Bolivia, sin duda plantea un Nuevo mapa político del Estado Plurinacional de Bolivia, que se presenta a continuación a partir del uso de datos generados
 por el [Órgano Electoral Plurinacional](https://computo.oep.org.bo/) 
-
-
-{{< figure src= "elecciones_final1.png" alt="mapa político del Estado Plurinacional de Bolivia" >}}
 
 
 El mapa ilustra el voto a nivel municipal y departamental; a nivel municipal existe un predominio territorial por parte del partido oficialista (MAS-IPSP) alcanzando ganar en 288 municipios de los 339 municipos existentes (sin tomar en cuenta las autonomías indigenas) en su mayoría predominantemente rurales excepto los municipios urbanos como El Alto, Viacha, Sacaba, Vinto y los pertenencientes al Trópico cochabambino;
