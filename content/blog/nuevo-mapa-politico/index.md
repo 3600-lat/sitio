@@ -15,7 +15,7 @@ cover:
   style: normal
 ---
 
-A más de una semana de las elecciones presidenciales en Bolivia, sin duda plantea un ‘’Nuevo mapa político del Estado Plurinacional de Bolivia”, que ha sido generado a partir de datos generados por el [Órgano Electoral Plurinacional](https://computo.oep.org.bo/) 
+A más de una semana de las elecciones presidenciales en Bolivia, sin duda plantea un ‘’Nuevo mapa político del Estado Plurinacional de Bolivia”, que ha sido construido a partir de datos generados por el [Órgano Electoral Plurinacional](https://computo.oep.org.bo/) 
 
 
 El mapa ilustra el voto a nivel municipal y departamental; a nivel municipal existe un predominio territorial por parte del partido oficialista (MAS-IPSP) alcanzando a ganar en 288 municipios de los 339 municipios existentes (sin tomar en cuenta las autonomías indígenas), en su mayoría predominantemente rurales excepto los municipios urbanos como El Alto, Viacha, Sacaba, Vinto y los pertenecientes al Trópico cochabambino; mientras que el partido opositor (Comunidad Ciudadana) ganó en 48 municipios predominantemente urbanos; donde el 50% (1.115.353) de sus votos provienen de los municipios de Santa Cruz de la Sierra, La Paz, Cochabamba y Sucre; y finalmente la fuerza política 21F que ganó en 3 municipios pertenecientes al Departamento del Beni.
