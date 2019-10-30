@@ -15,18 +15,17 @@ cover:
   style: normal
 ---
 
-A más de una semana de la elecciones presidenciales en Bolivia, sin duda plantea un Nuevo mapa político del Estado Plurinacional de Bolivia, que se presenta a continuación a partir del uso de datos generados
-por el [Órgano Electoral Plurinacional](https://computo.oep.org.bo/) 
+A más de una semana de las elecciones presidenciales en Bolivia, sin duda plantea un ‘’Nuevo mapa político del Estado Plurinacional de Bolivia”, que ha sido generado a partir de datos generados por el [Órgano Electoral Plurinacional](https://computo.oep.org.bo/) 
 
 
-El mapa ilustra el voto a nivel municipal y departamental; a nivel municipal existe un predominio territorial por parte del partido oficialista (MAS-IPSP) alcanzando ganar en 288 municipios de los 339 municipos existentes (sin tomar en cuenta las autonomías indigenas) en su mayoría predominantemente rurales excepto los municipios urbanos como El Alto, Viacha, Sacaba, Vinto y los pertenencientes al Trópico cochabambino;
-mientras que el partido opositor (Comunidad Ciudadana) ganó  en 48 municipios predominantemente urbanos; donde el 50% (1.115.353)  de sus votos provienen de los municipios de Santa Cruz de la Sierra, La Paz, Cochabamba y Sucre  y la fuerza política 21F en 3 municipios pertenecientes al departamento del Beni que sin duda afectó a las aspiraciones del principal partido opositor de conseguir hegemonía en el Departamento en cuestión.    
+El mapa ilustra el voto a nivel municipal y departamental; a nivel municipal existe un predominio territorial por parte del partido oficialista (MAS-IPSP) alcanzando a ganar en 288 municipios de los 339 municipios existentes (sin tomar en cuenta las autonomías indígenas), en su mayoría predominantemente rurales excepto los municipios urbanos como El Alto, Viacha, Sacaba, Vinto y los pertenecientes al Trópico cochabambino; mientras que el partido opositor (Comunidad Ciudadana) ganó en 48 municipios predominantemente urbanos; donde el 50% (1.115.353) de sus votos provienen de los municipios de Santa Cruz de la Sierra, La Paz, Cochabamba y Sucre; y finalmente la fuerza política 21F que ganó en 3 municipios pertenecientes al Departamento del Beni.
 
-A nivel Departamental el partido oficialista ganó 6 de los 9 departamentos mientras que el principal partido opositor venció en 3 (Santa Cruz, Chuquisaca y Tarija).
+A nivel Departamental, el partido oficialista ganó 6 de los 9 departamentos mientras que el principal partido opositor venció en 3 (Santa Cruz, Chuquisaca y Tarija).
 
-Mi interés (por ahora) no es realizar un análisis, sino de brindar un instrumento (mapa y/o visualizador)e insumos para analizar este nuevo mapa politico que nos ofrecieron estas elecciones pasadas pero con datos para generar evidencia
+Mi interés (por ahora) no es realizar un análisis, sino de brindar un instrumento (mapa y/o visualizador) e insumos para analizar este nuevo mapa político que nos ofrecieron estas elecciones pasadas, pero con datos para generar evidencia.
 
-Asimismo adjunto un visualizador , espero les sea útil
+
+Asimismo adjunto un visualizador , espero les sea útil:
 
 
 <iframe width="100%" height="520" frameborder="0" src="https://rafemoro.carto.com/builder/94fa0e66-4722-4538-bcbc-29736acb4d03/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
