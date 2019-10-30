@@ -13,7 +13,7 @@ A más de una semana de la elecciones presidenciales en Bolivia, sin duda plante
 por el [Órgano Electoral Plurinacional](https://computo.oep.org.bo/) 
 
 
-{{< figure src="/images/logo.png" alt="mapa político del Estado Plurinacional de Bolivia" >}}
+{{< figure src="/images/elecciones_final1.png" alt="mapa político del Estado Plurinacional de Bolivia" >}}
 
 
 El mapa ilustra el voto a nivel municipal y departamental; a nivel municipal existe un predominio territorial por parte del partido oficialista (MAS-IPSP) alcanzando ganar en 288 municipios de los 339 municipos existentes (sin tomar en cuenta las autonomías indigenas) en su mayoría predominantemente rurales excepto los municipios urbanos como El Alto, Viacha, Sacaba, Vinto y los pertenencientes al Trópico cochabambino;
