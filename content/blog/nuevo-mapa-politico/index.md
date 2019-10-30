@@ -23,9 +23,9 @@ Mi interés (por ahora) no es realizar un análisis, sino de brindar un instrume
 
 Asimismo adjunto un visualizador , espero les sea útil
 
-<figure class="visualizador">
+
 <iframe width="100%" height="520" frameborder="0" src="https://rafemoro.carto.com/builder/94fa0e66-4722-4538-bcbc-29736acb4d03/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-</figure>
+
 
 Asimismo adjunto la base de datos con la que trabajé:
 
