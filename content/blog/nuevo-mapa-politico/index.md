@@ -11,7 +11,7 @@ slug: Nuevo-Mapa-Politico-del-Estado-Plurinacional-de-Bolivia
 
 cover:
   image: /images/elecciones_final1.png
-  caption: Mapa WEB
+  caption: Elaboración Propia en base a datos del OEP, 2019
   style: normal
 ---
 
