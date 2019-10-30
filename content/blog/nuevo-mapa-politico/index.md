@@ -2,7 +2,7 @@
 date: 2019-10-30T14:00:00-04:00
 lastmod: 2019-10-30T19:00:00-04:00
 title: Nuevo Mapa Politico del Estado Plurinacional de Bolivia
-draft: false
+draft: true
 categories:
   - Elecciones Presidenciales
   - Mapas
