@@ -33,11 +33,11 @@ Asimismo adjunto un visualizador , espero les sea útil
 
 Asimismo adjunto la base de datos con la que trabajé:
 
-[GeoBolivia](https://geo.gob.bo/geonetwork/srv/spa/catalog.search#/metadata/51017e2e-e4de-4a37-af73-5ec596aed840) 
+[GeoBolivia -  Capa Departamental](https://geo.gob.bo/geonetwork/srv/spa/catalog.search#/metadata/51017e2e-e4de-4a37-af73-5ec596aed840) 
 
-[GeoBolivia](https://geo.gob.bo/geonetwork/srv/spa/catalog.search#/metadata/7a2ac686-6f6f-4015-999e-3660f85719fa)
+[GeoBolivia -  Capa Municipal](https://geo.gob.bo/geonetwork/srv/spa/catalog.search#/metadata/7a2ac686-6f6f-4015-999e-3660f85719fa)
 
-[Base de datos]()
+[Base de datos y mapa](https://rednegra.net/nc/index.php/s/44r6TtXn5YdnECN)
 
 SaluDATOS
 
