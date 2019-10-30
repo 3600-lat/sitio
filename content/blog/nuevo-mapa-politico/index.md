@@ -31,7 +31,6 @@ Asimismo adjunto un visualizador , espero les sea útil
 
 <iframe width="100%" height="520" frameborder="0" src="https://rafemoro.carto.com/builder/94fa0e66-4722-4538-bcbc-29736acb4d03/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-
 Asimismo adjunto la base de datos con la que trabajé:
 
 [GeoBolivia](https://geo.gob.bo/geonetwork/srv/spa/catalog.search#/metadata/51017e2e-e4de-4a37-af73-5ec596aed840) 
