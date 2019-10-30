@@ -6,15 +6,14 @@ categories:
   - Elecciones Presidenciales
   - Mapas
   - Datos
+slug: Nuevo-Mapa-Politico-del-Estado-Plurinacional-de-Bolivia
+
 cover:
   image: /images/elecciones_final1.png
   caption: Mapa WEB
   style: normal
 ---
 
-slug: Nuevo-Mapa-Politico-del-Estado-Plurinacional-de-Bolivia
-
----
 A más de una semana de la elecciones presidenciales en Bolivia, sin duda plantea un Nuevo mapa político del Estado Plurinacional de Bolivia, que se presenta a continuación a partir del uso de datos generados
 por el [Órgano Electoral Plurinacional](https://computo.oep.org.bo/) 
 
