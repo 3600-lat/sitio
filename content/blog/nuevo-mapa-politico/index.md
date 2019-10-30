@@ -10,6 +10,7 @@ cover:
   image: /images/elecciones_final1.png
   caption: Mapa WEB
   style: normal
+---
 
 slug: Nuevo-Mapa-Politico-del-Estado-Plurinacional-de-Bolivia
 
