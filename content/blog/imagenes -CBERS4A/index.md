@@ -1,7 +1,7 @@
 ---
 date: 2020-08-29T14:00:00-04:00
 lastmod: 2020-08-30T19:00:00-04:00
-title: \Imágenes CIBERS 4A una alternativa para la planificación Urbana
+title: Imágenes CIBERS 4A una alternativa para la planificación Urbana
 draft: false
 categories:
   - Imagenes
