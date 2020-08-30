@@ -9,7 +9,7 @@ categories:
   - Datos
 slug: Descargando-imagenes-satelitales-de-Bolivia
 cover:
-  image: /images/Screenshot_0.png
+  image: /images/eobrowser.jpg
   caption: Imagen CBERS4A de la ciudad de La Paz con resolución de 2m.
   style: normal
 ---
