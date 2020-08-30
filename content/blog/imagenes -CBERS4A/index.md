@@ -9,8 +9,8 @@ categories:
   - Datos
 slug: Imágenes-CIBERS4A-una-alternativa-para-la-planificación-Urbana 
 cover:
-  image: /images/eobrowser.jpg
-  caption: Interfaz EOBrowser
+  image: /images/Screenshot_0.png
+  caption: Imagen CBERS4A de la ciudad de La Paz con resolución de 2m.
   style: normal
 ---
 
