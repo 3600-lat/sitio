@@ -1,18 +1,85 @@
 ---
-date: 2018-08-28T14:00:00-04:00
-lastmod: 2018-08-28T19:00:00-04:00
-title: Descargando imagenes satelitales de Bolivia 
+date: 2020-08-29T14:00:00-04:00
+lastmod: 2020-08-30T19:00:00-04:00
+title: \Imágenes CIBERS 4A una alternativa para la planificación Urbana
 draft: true
 categories:
   - Imagenes
   - Web Services
   - Datos
-slug: Descargando-imagenes-satelitales-de-Bolivia
+slug: Imágenes-CIBERS4A-una-alternativa-para-la-planificación-Urbana 
 cover:
   image: /images/eobrowser.jpg
   caption: Interfaz EOBrowser
   style: normal
 ---
+
+Sin duda unas de las limitaciones en los estudios urbanos era el nivel de resolución espacial de las imágenes satelitales ni mencionar la resolución temporal; nuestras opciones disponibles eran utilizando el catálogo de imágenes de google earth y la aplicación  [SAS-planet](http://www.sasgis.org/); sim embargo si bien cuentan con buena resolución espacial, solo cuenta con una banda NO permitiéndonos hacer combinaciones de bandas con otras regiones del espectro electromagnético.
+
+En ese sentido, recientemente mediante el Programa de cooperación entre Brasil y China lanzaron a fines del año 2019 el satélite CBERS-4ª, cuya principal particularidad es la resolución espacial de 2 metros. Eso implica que es posible identificar objetos geográficos con mayor precisión como: trazado urbano, cuerpos de agua, áreas verdes, vías, etc.
+
+Imagen 1
+
+
+
+
+Las características de las cámaras de CBERS-4ª
+
+
+
+
+
+
+Para mayor información visitar el siguiente [link](http://www.cbers.inpe.br/sobre/cameras/cbers04a.php) 
+
+A continuación, explicaremos brevemente como obtener estas imágenes y realizar composiciones para su posterior interpretación. Lo haremos con [QGIS]  (https://qgis.org/es/site/forusers/download.html) 
+
+Para empezar ingresaremos al [catálogo de imágenes](http://www2.dgi.inpe.br/catalogo/explore) del [INPE](http://www.inpe.br/)
+
+Seguidamente seleccionamos el área de interés (Por ejemplo, la ciudad de La Paz-Bolivia)
+(imagen3)
+
+Luego, seleccionamos las fechas y el % de nubosidad
+(imagen4)
+
+Una vez realizado el Filtro, seleccionamos las imágenes CBERS4A_WPM_L4_DN (3/3) y añadimos a la cesta para su descarga (previamente debemos contar con una cuenta de registro)
+(imagen5) y (imagen6)
+
+Genera un archivo de texto con las URL’s de las imágenes (5 bandas), donde la Banda 0 es la pancromática.
+
+(imagen7)
+
+
+
+
+Seguidamente, abrimos los archivos en QGIS
+(imagen8)
+
+
+Luego vamos a las barra de Herramientas , seleccionar RASTER/Miscelanea/Cosntruir raster virtual.
+(imagen9)
+
+En el menú seleccionar Input layer y hacemos check en las bandas 1,2,3 para componer una banda RGB(321)y ejecutamos
+(imagen10)
+
+Finalmente este raster virtual generado lo fusionamos con la BANDA 0 , haciendo un pansharpening. Para ello vamos a la CAJA DE HERRAMIENTAS DE PROCESO / Pansharpening
+(imagen11)
+Y seleccionamos EJECUTAR
+(imagen12)
+
+(imagen13)
+
+Ahora si hacemos una composición 432
+(imagen14)
+
+Vemos en infrarrojo , y podemos detectar cobertura vegetal en la ciudad de La Paz
+
+Ya se cuenta con las  imágenes, ahora nos toca investigar y aprovecharlas al máximo. 
+
+
+
+
+
 Actualmente, existen gran cantidad de sitios web para descargar imágenes satelitales. Este artículo brinda una guía de como descargar de manera facil, gratuita y segura. 
 Por lo tanto cualquier persona (no especializada) pueda visualizar, consultar y calcular índices básicos de analisis del territorio.
 
