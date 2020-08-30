@@ -10,7 +10,7 @@ categories:
 slug: Descargando-imagenes-satelitales-de-Bolivia
 cover:
   image: /images/eobrowser.jpg
-  caption: Imagen CBERS4A de la ciudad de La Paz con resolución de 2m.
+  caption: Interfaz EOBrowser
   style: normal
 ---
 Actualmente, existen gran cantidad de sitios web para descargar imágenes satelitales. Este artículo brinda una guía de como descargar de manera facil, gratuita y segura. 
