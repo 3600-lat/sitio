@@ -45,7 +45,7 @@ Genera un archivo de texto con las URL’s de las imágenes (5 bandas), donde la
 {{< figure src="/images/Screenshot_7.png" alt="URL's de descarga " >}}
 
 Seguidamente, abrimos los archivos en QGIS
-{{< figure src="/images/Screenshot_8.png" alt=" Interfaz QGIS" >}}
+{{< figure src="/images/Screenshot_15.png" alt=" Interfaz QGIS" >}}
 
 Luego vamos a las barra de Herramientas , seleccionar RASTER/Miscelanea/Construir raster virtual.
 {{< figure src="/images/Screenshot_9.png" alt="Construir raster virtual" >}}
