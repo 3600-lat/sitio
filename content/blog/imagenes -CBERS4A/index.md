@@ -71,7 +71,7 @@ Ya se cuenta con las  imágenes, ahora nos toca investigar y aprovecharlas al m�
 
 Aquí les comparto un primer video:
 
-{{< youtube CamR_DDwcBw >}}
+{{< youtube fO4kPG9MybQ >}}
 
 
 
