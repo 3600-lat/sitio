@@ -6,7 +6,9 @@ draft: false
 categories:
   - Imagenes
   - Web Services
+  - CBERS4A
   - Datos
+  - Planifición Urbana
 slug: Imágenes-CIBERS4A-una-alternativa-para-la-planificación-Urbana 
 cover:
   image: /images/Screenshot_0.png
