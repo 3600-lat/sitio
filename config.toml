@@ -1,7 +1,7 @@
 baseURL = "https://3600.lat/"
 title = "3600.lat"
 # for smart copyright line, leave this blank and check [params.copyright]
-copyright = "🄯 2018 - 3600.lat"
+copyright = "🄯 2018-2021 - 3600.lat"
 
 theme = "minimo"
 

@@ -24,7 +24,7 @@ Referencias personales:
   / SVG.
 - [GeoElectoral](http://geoelectoral.gob.bo): participamos de la creación y el
   desarrollo de GeoElectoral, atlas histórico electoral de Bolivia.
-- [ObservableHQ](https://beta.observablehq.com/@severo): experimentaciones
+- [ObservableHQ](https://observablehq.com/@severo): experimentaciones
   alrededor de los mapas y datos.
 
 ## Análisis de datos

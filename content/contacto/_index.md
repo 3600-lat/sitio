@@ -55,4 +55,4 @@ weight: -70
 - NIT: 366764029
 - Matricula de comercio: 399732
 - Fecha de constitución: 7 de agosto de 2018
-- Representante legal: Sylvain Damien Lesage
+- Representante legal: Raul Fernando Molina Rodriguez
