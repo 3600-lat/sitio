@@ -31,6 +31,7 @@ Para usar SCSS, se requiere recompilar el CSS:
 ```
 cd themes/minimo
 npm install
+npm run build
 ```
 
 Y para ver los cambios, en otra terminal:

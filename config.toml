@@ -18,6 +18,12 @@ pygmentsCodefences = true
 
 enableEmoji = true
 
+# https://stackoverflow.com/a/63206852/7351594
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
