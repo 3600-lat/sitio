@@ -1,0 +1,166 @@
+/* Paleta de base: https://color.adobe.com/es/Japanese-Modern-color-theme-87573/ */
+
+@font-face {
+  font-family: "norwesterregular";
+  src: url("../fonts/norwester-webfont.woff2") format("woff2"),
+    url("../fonts/norwester-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "fjallaoneregular";
+  src: url("../fonts/fjallaone-regular-webfont.woff2") format("woff2"),
+    url("../fonts/fjallaone-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+#sidebar .logo {
+  max-width: 10em;
+}
+
+.title.site-title,
+.marca {
+  font-family: "norwesterregular";
+  font-style: normal;
+}
+
+h1,
+h2,
+.title {
+  font-style: normal;
+  font-family: "fjallaoneregular";
+}
+
+section.contactos {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+section.contacto {
+  display: block;
+  padding: 1em 0 1em 1em;
+  position: relative;
+  width: 50%;
+  min-width: 15em;
+}
+
+section.contacto div.contenedor {
+  margin: 0 0 2em 0;
+  padding-left: 3.25em;
+  position: relative;
+}
+
+section.contacto div.contenedor svg.icono {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+section.contacto div.contenedor i.fa {
+  font-size: 1.5em;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+section.contacto div.contenedor h3 {
+  margin-top: 0;
+}
+
+section.contacto div.contenedor p.enlace-mapa {
+  margin-top: 1em;
+}
+
+section.personas {
+}
+section.persona {
+  display: block;
+  padding: 1em 0 2em 1em;
+}
+
+section.persona div.contenedor {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 0 2em 0;
+}
+
+section.persona div.contenedor div.left {
+  flex: none;
+  margin-right: 2em;
+  width: 160px;
+}
+
+section.persona div.contenedor div.left img {
+  border-radius: 100%;
+  display: block;
+  height: 120px;
+  margin: 5px auto;
+  width: 120px;
+  border-color: #cbb370;
+  border-style: solid;
+  border-width: 5px;
+}
+
+section.persona div.contenedor div.right {
+  flex: 1 1 16em;
+}
+
+section.persona div.contenedor p.social {
+  text-align: center;
+}
+
+section.persona div.contenedor p.social a {
+  border-bottom: none;
+}
+
+section.persona div.contenedor i.fa {
+  font-size: 1em;
+}
+
+section.persona div.contenedor i.fa.alt:before {
+  display: inline-block;
+  height: 1.5em;
+  line-height: 1.5em;
+  text-align: center;
+  width: 1.5em;
+}
+
+section.persona div.contenedor p.enlace {
+  margin-top: 1em;
+}
+
+div.enfasis {
+  font-size: 1.25em;
+  margin: 2em;
+  text-align: center;
+}
+
+section.descargas {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+}
+
+.descarga {
+  display: block;
+  position: relative;
+  max-width: 120px;
+  margin: 10px;
+}
+
+.descarga a {
+  border-bottom: none;
+  text-align: center;
+}
+.descarga a img {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+}
