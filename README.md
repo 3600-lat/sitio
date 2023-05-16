@@ -1,6 +1,6 @@
 # Sitio 3600.lat
 
-htts://3600.lat
+See it at htts://3600.lat
 
 ## Instalación
 
