@@ -3,7 +3,7 @@
 ## Instalación
 
 ```
-git clone https://framagit.org/3600.lat/sitio.git
+git clone https://github.com/3600-lat/sitio.git
 cd sitio
 git submodule init
 git submodule update
