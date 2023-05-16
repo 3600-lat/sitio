@@ -1,5 +1,7 @@
 # Sitio 3600.lat
 
+htts://3600.lat
+
 ## Instalación
 
 ```
