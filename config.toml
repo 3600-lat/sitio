@@ -77,7 +77,7 @@ page = "3600LAT" # Twitter page username
 titleSeparator = "•"
 
 [params.social]
-email = "contacto@3600.lat"
+#email = "contacto@3600.lat"
 facebook = "3600.lat"
 #github = "MunifTanjim"
 #gitlab = "Mun"
