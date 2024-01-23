@@ -10,9 +10,9 @@ weight: -70
 
 {{< contacto
   icono="fa-envelope"
-  url="mailto:contacto@3600.lat"
+  url="mailto:rafemoro@gmail.com"
   titulo="Correo electrónico"
-  texto_url="contacto@3600.lat" />}}
+  texto_url="rafemoro@gmail.com" />}}
 
 {{% contacto
   icono="fa-map-marker"
