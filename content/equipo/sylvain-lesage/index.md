@@ -9,7 +9,7 @@ id: "sylvain-lesage"
 nombre: "Sylvain Lesage"
 foto: "images/slesage.jpg"
 celular: "+33 7 66 24 73 07"
-correo: "slesage@3600.lat"
+correo: "severo@rednegra.net"
 social:
   twitter: "https://twitter.com/severo_dev"
   github: "https://github.com/severo"
@@ -17,7 +17,7 @@ social:
   area-chart: "https://observablehq.com/@severo"
 social-opcional:
   gitlab: "https://framagit.org/severo"
-  mastodon: "https://mamot.fr/@severo_bo"
+  mastodon: "https://mastodon.social/@severo"
   quote-right: "https://seenthis.net/people/severo"
   graduation-cap: "https://www.researchgate.net/scientific-contributions/57113422_Sylvain_Lesage"
 ---
@@ -36,5 +36,6 @@ tecnológico de la infraestructura de datos espaciales del Estado Plurinacional
 de Bolivia [GeoBolivia](https://geo.gob.bo), y posteriormente dirigió proyectos
 tecnológicos, como los servicios de nombres de dominio en Internet .bo, de firma
 digital y otros de gobierno electrónico, en las instituciones
-[ADSIB](https://adsib.gob.bo) y [AGETIC](https://agetic.gob.bo). Desde 2018 es
-desarrollador de visualizaciones de datos con JavaScript, D3.js, three.js.
+[ADSIB](https://adsib.gob.bo) y [AGETIC](https://agetic.gob.bo). A partir de 2018,
+trabajó como desarrollador de visualizaciones de datos con JavaScript, D3.js,
+three.js. Desde 2021, es desarrollador en Hugging Face.
